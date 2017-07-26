@@ -1,4 +1,4 @@
-#Daily English
+# Daily English
 
 ## Day 0
 ### 例句： 
@@ -18,9 +18,10 @@ Even if one didn't know from concrete examples (the death of Ian Murdock, the fu
 1. Lead to... (lead sb to...)
 2. Result in...   例：Talks in July had resulted in stalemate. 七月的会谈陷入了僵局。
   > 【关于result】  
-  Resulting (adj.) Talk of a general election and the resulting political uncertainty.
-  As a result of(表原因)=result from; As a result 放在句首表示结果
-  Without result = in vain 例：Denny had inquired about getting work, without result.
+  Resulting (adj.) Talk of a general election and the resulting political uncertainty.  
+  As a result of(表原因)=result from; As a result 放在句首表示结果  
+  Without result = in vain   
+  例：Denny had inquired about getting work, without result.
 
 3. Bring about... 例：She brought about a revolution in psychoanalysis.
 4. Give rise to... 例：Decisions which give rise to arguments.
@@ -40,9 +41,9 @@ That might explain why several professors said the students seemed prone to chea
 3. **Be inclined to**: if you’re inclined to do something, you want to do it, you like doing it, and you may even have an inherit talent for doing it.  
 例：The IAB is urging them to make advertisements less irksome, so that consumers are less inclined to block them.  
 (另一种用法：have/show an/little inclination to)  
-例：Thai authorities have show an inclination in recent years to carry out deportations even in the face of strong opposition from rights groups and foreign powers.
-再补充一种inclination比较牛逼的用法：
-(inclination for/to/towards) an interest in or liking for (something): my inborn inclination for things with moving parts.
+例：Thai authorities have show an inclination in recent years to carry out deportations even in the face of strong opposition from rights groups and foreign powers.   
+再补充一种inclination比较牛逼的用法：  
+(inclination for/to/towards) an interest in or liking for (something): my inborn inclination for things with moving parts.  
 关于感兴趣的另一种表达：
 **Propensity**: an inclination or natural tendency to behave in particular way  
 例：He has a propensity for casual swearing and an accent that he worries Americans won’t understand.
@@ -71,7 +72,7 @@ In the concrete: formal in reality or in practice
 > 2. The rapid expansion of automobile usage has in many cases encroached on valuable oil resources, and led to a general recognition that industrial development must not be carried at the cost of natural resources. The environmental protection association has attached greater importance to the problem and an increasing number of redundant promotions of high-emission vehicles are being terminated.
 
 ### 句型：
-The rapid expansion of AAA has many cases encroached on BBB, and led to a general recognition that CCC must not be carried at the cost of DDD. The EEE has attached greater importance to the problem and an increasing number of redundant FFF are being terminated.
+The rapid expansion of AAA has many cases encroached on BBB, and led to a general recognition that CCC must not be carried at the cost of DDD. The EEE has attached greater importance to the problem and an increasing number of redundant FFF are being terminated.  
 AAA的迅速扩大在很多情况下侵占了BBB，使人们普遍认识到发展CCC（AAA相关）不能以牺牲DDD（BBB相关）为代价。EEE更加重视这个问题，越来越多的不必要的FFF被终止。
 
 ### 炼句：
