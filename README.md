@@ -99,6 +99,5 @@ A small plaque in recognition of her contribution to the university.
 
 **Carry on** 继续从事、继续运作；继续做某事（强调无论有什么阻碍）；作为举止不合时宜的
 
-**Terminate** v. 使终止，使结束，解雇 / adj. 结束的
-
+**Terminate** v. 使终止，使结束，解雇 / adj. 结束的  
 Terminate the employment of 解雇
