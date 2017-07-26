@@ -44,7 +44,7 @@ That might explain why several professors said the students seemed prone to chea
 例：Thai authorities have show an inclination in recent years to carry out deportations even in the face of strong opposition from rights groups and foreign powers.   
 再补充一种inclination比较牛逼的用法：  
 (inclination for/to/towards) an interest in or liking for (something): my inborn inclination for things with moving parts.  
-关于感兴趣的另一种表达：
+关于感兴趣的另一种表达：  
 **Propensity**: an inclination or natural tendency to behave in particular way  
 例：He has a propensity for casual swearing and an accent that he worries Americans won’t understand.
 
