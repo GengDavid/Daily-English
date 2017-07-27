@@ -13,7 +13,7 @@ Even if one didn't konw from concrete examples (AAA, for instance) that BBB lead
 ### 炼句：
 Even if one didn't know from concrete examples (the death of Ian Murdock, the funder of Debian operating system, for instance) that too little communication often leads to misunderstanding, one could deduce it from general principle.
 
-## 知识点总结：
+### 知识点总结：
 #### “导致”的替换短语：
 1. Lead to... (lead sb to...)
 2. Result in...   例：Talks in July had resulted in stalemate. 七月的会谈陷入了僵局。
@@ -101,3 +101,20 @@ A small plaque in recognition of her contribution to the university.
 
 **Terminate** v. 使终止，使结束，解雇 / adj. 结束的  
 Terminate the employment of 解雇
+
+## Day 2
+### 例句
+> The point we might still take from the First World War is the old that wars are always, as one historian aptly put it, astounding: they produce unforeseeable results.  
+
+### 句型
+The point we might still take from AAA is BBB, as XXX aptly put it, CCC:___________.  
+我们仍可以从AAA中得出结论，BBB总是——正如XXX恰如其分地指出的那样CCC(adj.):——(explanation)
+### 炼句
+The point we might still take from the commercial competition is that innovation, as Steve Jobs aptly put it, important: it distinguishes between a leader and a follower.
+### 知识点总结
+**aptly**: adv. 适宜地；适当地  
+近义词： properly, appropriately, adequately  
+例句：By counting the distinct paths through a method, this integer-based metric aptly depicts method complexity.  
+
+**as sb. put it**  正如某人所说
+
