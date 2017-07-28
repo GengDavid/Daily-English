@@ -150,11 +150,12 @@ Studying and working in the library, although quiet and comfortable, is fundamen
 
 **nothing but** 用法  
 1. nothing but＋名词或名词词组  
-  In the room I found nothing but an old table.
+  例： InIn the room I found nothing but an old table.
 2. nothing but＋do sth  
-  Last evening I did nothing but repair my farm tools.
+  例： InLast evening I did nothing but repair my farm tools.
 3. nothing but ＋to do sth．常用于want，like，decide，hope，wish，need等可跟不定式的动词后面。  
-  I want nothing but to speak to you all these days．
+  例： InI want nothing but to speak to you all these days.  
+  *(tip: 有 do 无 to )*  
 4. nothing but＋doing sth．常用于enjoy，finish， mind，appreciate等可跟动名词的动词后面。
-  She enjoyed nothing but being thought highly of by others．  
-*(tip: 有 do 无 to )*
+  例： InShe enjoyed nothing but being thought highly of by others．  
+
