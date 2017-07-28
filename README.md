@@ -148,3 +148,13 @@ Studying and working in the library, although quiet and comfortable, is fundamen
 **strike an appropriate balance between** 在...间达到平衡  
 例： Based on international experience, the author makes suggestion in order to strike an appropriate balance between risks and coverage in designing credit security system in China.  
 
+**nothing but** 用法  
+1. nothing but＋名词或名词词组  
+  In the room I found nothing but an old table.
+2. nothing but＋do sth  
+  Last evening I did nothing but repair my farm tools.
+3. nothing but ＋to do sth．常用于want，like，decide，hope，wish，need等可跟不定式的动词后面。  
+  I want nothing but to speak to you all these days．
+4. nothing but＋doing sth．常用于enjoy，finish， mind，appreciate等可跟动名词的动词后面。
+  She enjoyed nothing but being thought highly of by others．  
+*(tip: 有 do 无 to )*
