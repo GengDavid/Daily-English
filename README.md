@@ -118,3 +118,29 @@ The point we might still take from the commercial competition is that innovation
 
 **as sb. put it**  正如某人所说
 
+## Day 3
+### 例句
+> The long period of vacation, although long in enjoying yourself at that time, is fundamentally short in terms of proper work and proper rest. To strike an appropriate balance between these two, what we need is short vacations separated by several short working periods so that we will “work while we rest”. So I can do nothing but to choose short vacation.  
+长假期，虽然能有很长时间在假期中逍遥自在，但是就正常的工作和休息而言，根本是很短的时间。为在这两者之间达到一个平衡，我们需要的是被较短的工作时间分隔开的短假期，这样我们就会觉得是在休息的期间工作。所以我唯一可以做的就是选择短假期。
+### 句型
+AAA, although CCC, is fundamentally DDD in terms of EEE. To strike an appropriate balance between these two, what we need is BBB (FFF) so that CCC. So I can do nothing but to choose BBB.  
+【用于比较AAA和BBB的优劣，最终确定选择BBB。】  
+(p.s. CCC是A的优点，F用来修饰B.)
+### 炼句
+
+### 知识点总结
+**in terms of** 根据; 用…的话; 就…而言; 以…为单位;  
+几种用法：  
+1. 在...方面， 关于...    
+  例： In terms of the system assessing teachers’ work, other crucial elements should also be included like parents’ feedback and comprehensive developments of students.  
+  在评估老师的工作质量方面，家长的反馈和学生的综合发展也是应该考虑的因素。  
+  同义短语为：In the field of
+2. 根据，按照  
+  例： In terms of a survey on access to life expectancy, above thirty fatalities are linked to traffic accidents.  
+  同义短语: according to
+3. 用...的话；从...角度来说  
+  例： In terms of certain radical parents, a priorly effective method to expose children to language skills goes to the enlightenment of foreign language as early as in the primary school.  
+  在一些激进的家长看来，在小学时候接受启蒙式的外语教学能够更好的让孩子们掌握学习语言的技能  
+  同义短语：In one’s words; as sb. put it
+
+
