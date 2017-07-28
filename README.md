@@ -120,14 +120,14 @@ The point we might still take from the commercial competition is that innovation
 
 ## Day 3
 ### 例句
-> The long period of vacation, although long in enjoying yourself at that time, is fundamentally short in terms of proper work and proper rest. To strike an appropriate balance between these two, what we need is short vacations separated by several short working periods so that we will “work while we rest”. So I can do nothing but to choose short vacation.  
+> The long period of vacation, although long in enjoying yourself at that time, is fundamentally short in terms of proper work and proper rest. To strike an appropriate balance between these two, what we need is short vacations separated by several short working periods so that we will “work while we rest”. So I can do nothing but choose short vacation.  
 长假期，虽然能有很长时间在假期中逍遥自在，但是就正常的工作和休息而言，根本是很短的时间。为在这两者之间达到一个平衡，我们需要的是被较短的工作时间分隔开的短假期，这样我们就会觉得是在休息的期间工作。所以我唯一可以做的就是选择短假期。
 ### 句型
-AAA, although CCC, is fundamentally DDD in terms of EEE. To strike an appropriate balance between these two, what we need is BBB (FFF) so that GGG. So I can do nothing but to choose BBB.  
+AAA, although CCC, is fundamentally DDD in terms of EEE. To strike an appropriate balance between these two, what we need is BBB (FFF) so that GGG. So I can do nothing but choose BBB.  
 【用于比较AAA和BBB的优劣，最终确定选择BBB。】  
 (p.s. CCC是A的优点，FFF用来修饰B.)
 ### 炼句
-Studying and working in the library, although quiet and comfortable, is fundamentally inconvenient in terms of group work. To strike an balance between these two, what we need is discussion room that where we can study and communicate with others so that we can cooperate easily. So I can do nothing but to choose discussion room to finish group study.
+Studying and working in the library, although quiet and comfortable, is fundamentally inconvenient in terms of group work. To strike an balance between these two, what we need is discussion room that where we can study and communicate with others so that we can cooperate easily. So I can do nothing but choose discussion room to finish group study.
 ### 知识点总结
 **fundamentally adv.** 根本地，从根本上；基础地
 
