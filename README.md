@@ -1,7 +1,7 @@
 # Daily English
 
 ## Day 0
-### 例句： 
+### 例句：
 > 1. Even if one didn't konw from concrete examples (the 1936 Olympic Game, for instance) that international sporting contest leads to orgies of hatred, one could deduce it from general principle.
 
 > 2. Even if one didn’t know from concrete examples (the 2007 financial crisis, for instance) that the overproduction in the process of capitalist economic development leads to global financial crisis, one could still deduce it from general principle.
@@ -25,7 +25,7 @@ Even if one didn't know from concrete examples (the death of Ian Murdock, the fu
 
 3. Bring about... 例：She brought about a revolution in psychoanalysis.
 4. Give rise to... 例：Decisions which give rise to arguments.
-5. Induce 例：None of these measures induced a change of policy. 
+5. Induce 例：None of these measures induced a change of policy.
 6. Contribute to... 例：The government imposed a tax on fuels which contributed to global warming.
 
 #### “倾向于”的替换短语：
@@ -157,5 +157,38 @@ Studying and working in the library, although quiet and comfortable, is fundamen
   例： InI want nothing but to speak to you all these days.  
   *(tip: 有 do 无 to )*  
 4. nothing but＋doing sth．常用于enjoy，finish， mind，appreciate等可跟动名词的动词后面。
-  例： InShe enjoyed nothing but being thought highly of by others．  
+  例： InShe enjoyed nothing but being thought highly of by others.  
 
+## Day 4
+### 例句
+>　Among countless factors which directly or indirectly influence the proportion between male babies and female ones, there are several conspicuous factors as follows.
+
+### 句型
+Among countless factors which/that AAA, there are several conspicuous factors as follows.
+
+### 炼句
+Among countless factors that result in the greenhouse effect, there are several conspicuous factors as follows.
+
+### 知识点总结
+conspicuous adj. 显著的；显而易见的  
+近义词： prominent, obvious, excellent, remarkable, brilliant, marked  
+
+### 例句
+> Nowadays, in addition to material enjoyment, people are also endowed with more spiritual comfort, which is an indicator of quality life.
+
+### 句型
+Nowadays, in addition to AAA, people are also endowed with BBB, which is an indicator of ...
+除了AAA，如今人们也拥有BBB，这正是...的体现
+
+### 炼句
+Nowadays, in addition to newspaper, people are also endowed with variety of ways to contact with the outer world, which is an indicator of development of technology.
+
+### 知识点总结
+**in addition to** 除...之外（还有，也）  
+**be endowed with**  被赋予；天生具有；拥有  
+例： Men are supposed to be endowed with tolerance, generosity, an open mind and a loving heart, all of which vital to a successful marriage.  
+**indicator**  指示器  
+同义词：pointer  
+**material enjoyment** 物质享受  
+pursuing material enjoyment 追求物质享受  
+**spiritual comfort**  精神慰藉
