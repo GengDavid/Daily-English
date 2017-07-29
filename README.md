@@ -173,6 +173,8 @@ Among countless factors that result in the greenhouse effect, there are several 
 conspicuous adj. 显著的；显而易见的  
 近义词： prominent, obvious, excellent, remarkable, brilliant, marked  
 
+---
+
 ### 例句
 > Nowadays, in addition to material enjoyment, people are also endowed with more spiritual comfort, which is an indicator of quality life.
 
