@@ -194,3 +194,27 @@ Nowadays, in addition to newspaper, people are also endowed with variety of ways
 **material enjoyment** 物质享受  
 pursuing material enjoyment 追求物质享受  
 **spiritual comfort**  精神慰藉
+
+## Day 5
+### 例句
+> This project brought together a group of teachers who created multimedia learning objects that incorporate innovative uses of technology into curriculum to enhance students' learning and illustrate new ways of thinking.
+
+### 句型
+AAA integrate / incorporate BBB into CCC
+
+### 炼句
+This is an effective way that incorporate pertinent practice into the theoretical study.
+
+### 知识点总结
+**integrate / incorporate ... into ...** 将...结合到...中  
+近义成语：get the best of both worlds, 很常用的美式表达， 可译为 “两全其美”  
+例：  
+1. If you enjoy the coast and the country, you'll get the best of both worlds on this walk.  
+2. To get the best of both worlds, the scientists studied some submersible rice and found two genes that are not present in shallow-water varieties.
+
+**bring together** 集合；使…团结起来  
+例：More importantly, it is the task of management to bring together the team that can do the work.   
+更重要的是，管理的任务是将能够进行这样工作的团队集合起来。
+
+**pertinent** adj. 相关的，相干的；中肯的；切题的  
+近义词：relevant, relational, correlative
