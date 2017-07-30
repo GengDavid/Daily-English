@@ -187,13 +187,18 @@ Nowadays, in addition to newspaper, people are also endowed with variety of ways
 
 ### 知识点总结
 **in addition to** 除...之外（还有，也）  
+
 **be endowed with**  被赋予；天生具有；拥有  
+
 例： Men are supposed to be endowed with tolerance, generosity, an open mind and a loving heart, all of which vital to a successful marriage.  
 **indicator**  指示器  
+
 同义词：pointer  
 **material enjoyment** 物质享受  
 pursuing material enjoyment 追求物质享受  
+
 **spiritual comfort**  精神慰藉
+
 
 ## Day 5
 ### 例句
