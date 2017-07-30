@@ -192,8 +192,8 @@ Nowadays, in addition to newspaper, people are also endowed with variety of ways
 
 例： Men are supposed to be endowed with tolerance, generosity, an open mind and a loving heart, all of which vital to a successful marriage.  
 **indicator**  指示器  
-
 同义词：pointer  
+
 **material enjoyment** 物质享受  
 pursuing material enjoyment 追求物质享受  
 
