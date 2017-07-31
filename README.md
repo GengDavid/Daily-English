@@ -233,10 +233,10 @@ This is an effective way that incorporate pertinent practice into the theoretica
 AAA has expanded without any idea of the true nature of BBB, and without giving a consideration to the effects produced on the CCC (与AAA、BBB都相关) and on DDD (比CCC更深远的影响) by the EEE imposed by the FFF.  
 AAA发展起来了，却根本没有想到BBB的本质。FFF把一种EEE的方式强加给CCC，却不顾及这种EEE方式给CCC(与AAA、BBB都相关）及其DDD(比CCC更深远的影响) 带来的影响。
 
-## 炼句
+### 炼句
 Local agriculture has expanded without any idea of the true nature of the relationship between the crop and the land, and without giving a consideration to the effects produced on the soil and on the local ecological environment by the production pattern imposed by the farmers.
 
-## 知识点
+### 知识点总结
 **without any idea of**  没有想到；完全忽视  
 例：Some people work blindly, without any idea of where they are going with a project.
 
