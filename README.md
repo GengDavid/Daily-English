@@ -223,3 +223,28 @@ This is an effective way that incorporate pertinent practice into the theoretica
 
 **pertinent** adj. 相关的，相干的；中肯的；切题的  
 近义词：relevant, relational, correlative
+
+## Day 6
+### 例句
+> Modern industry has expended without any idea of the true nature of human beings who run the machines, and without giving a consideration to the effects produced on the individuals and on their descendants by the artificial mode of existence imposed by the factory.  
+现代工业发展起来了，却根本没想到操作机器的人的本质。工厂把一种人为的生存方式强加给工人，却不顾及这种生存方式给工人及其后代带来的影响。
+
+### 句型
+AAA has expanded without any idea of the true nature of BBB, and without giving a consideration to the effects produced on the CCC (与AAA、BBB都相关) and on DDD (比CCC更深远的影响) by the EEE imposed by the FFF.  
+AAA发展起来了，却根本没有想到BBB的本质。FFF把一种EEE的方式强加给CCC，却不顾及这种EEE方式给CCC(与AAA、BBB都相关）及其DDD(比CCC更深远的影响) 带来的影响。
+
+## 炼句
+Local agriculture has expanded without any idea of the true nature of the relationship between the crop and the land, and without giving a consideration to the effects produced on the soil and on the local ecological environment by the production pattern imposed by the farmers.
+
+## 知识点
+**without any idea of**  没有想到；完全忽视  
+例：Some people work blindly, without any idea of where they are going with a project.
+
+**imposed by** 由......强加的  
+例：But to a large extent, that identity has been imposed by society.  
+而在很大程度上，这种身份选择是由社会强加的。
+
+**to a large extent** 在很大程度上  
+例句同上  
+
+**existence** （对人来说）生存方式
