@@ -248,3 +248,26 @@ Local agriculture has expanded without any idea of the true nature of the relati
 例句同上  
 
 **existence** （对人来说）生存方式
+
+## Day 7
+In this day, I accumulated several useful sentences as follow.
+## Sentence 1
+> The American government will explore every avenue toward peace in this region.  
+
+### Analyzation
+"explore every avenue toward ..." ： “探索完成...的所有途径”
+### 炼句
+Every competitors are exploring every avenue toward the first prize in this competition.  
+## Sentence 2
+> They worked in Women's Shelter to protect the battered and abused women, to awaken the conscience of society and to arouse compassion for the weak.
+
+### Analyzation
+**awaken the conscience of**：唤醒...(常为society)的良知或责任感
+
+**arouse compassion for**: 唤起对...的同情，注意介词是for  
+### 炼句
+The often run some charity events to awaken the conscience of society.
+## Sentence 3
+>
+1. Far from being amateurs, these kids know the game rules inside out.  
+2. The space trash problem is far from being solved. In fact, all efforts to bring down space trash have failed glaringly and, ironically, have led to even more trash in the outer space.
