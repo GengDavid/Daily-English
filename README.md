@@ -3,7 +3,6 @@
 ## Day 0
 ### 例句：
 > 1. Even if one didn't konw from concrete examples (the 1936 Olympic Game, for instance) that international sporting contest leads to orgies of hatred, one could deduce it from general principle.
-
 > 2. Even if one didn’t know from concrete examples (the 2007 financial crisis, for instance) that the overproduction in the process of capitalist economic development leads to global financial crisis, one could still deduce it from general principle.
 
 ### 句型：
