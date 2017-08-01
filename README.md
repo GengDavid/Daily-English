@@ -268,6 +268,16 @@ Every competitors are exploring every avenue toward the first prize in this comp
 ### 炼句
 The often run some charity events to awaken the conscience of society.
 ## Sentence 3
->
-1. Far from being amateurs, these kids know the game rules inside out.  
+> 1. Far from being amateurs, these kids know the game rules inside out.  
 2. The space trash problem is far from being solved. In fact, all efforts to bring down space trash have failed glaringly and, ironically, have led to even more trash in the outer space.
+
+### Analyzation
+**far from being...** 完全不是...， 常用于进行正面论证
+
+**know... inside out**: 对...了如指掌
+
+**fail glaringly**: 惨重的失败
+
+**..., ironically,**: ...有讽刺意味的是...
+### 炼句
+Far from being hardworking, he lose himself in  playing computer games.
