@@ -68,7 +68,6 @@ In the concrete: formal in reality or in practice
 ## Day 1
 ### 例句：
 > 1. The rapid expansion of urban areas has in many cases encroached on valuable cultivated land, and led to general recognition that development must not be carried at the cost of agriculture. The government has attached greater importance to the problem and an increasing number of redundant projects are being terminated.
-
 > 2. The rapid expansion of automobile usage has in many cases encroached on valuable oil resources, and led to a general recognition that industrial development must not be carried at the cost of natural resources. The environmental protection association has attached greater importance to the problem and an increasing number of redundant promotions of high-emission vehicles are being terminated.
 
 ### 句型：
