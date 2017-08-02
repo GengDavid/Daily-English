@@ -279,3 +279,20 @@ The often run some charity events to awaken the conscience of society.
 **..., ironically,**: ...有讽刺意味的是...
 #### 炼句
 Far from being hardworking, he lose himself in  playing computer games.
+
+## Day 8
+### 例句
+> The cultivation of a hobby and new forms of interest is therefore a policy of the first importance to a public man. But this is not a business that can be undertaken in a day or swiftly improvised by a mere command of the will.  
+因此，对一个从事社会活动的人来说，培养一种业余爱好和各种新兴趣是头等重要的做法。但这并非一日之功，也不是单凭意志就一蹴而就的事情。
+
+### 句型
+AAA is therefore a policy of the first importance to BBB. But this is not a business that can be undertaken in a day or swiftly improvised by a mere command of the will.  
+所以，对于BBB来说，AAA是最重要的。但是这不是一日之功，也不是单凭意志就一蹴而就的事情。
+
+### 炼句
+The accumulation of vocabulary is therefore a policy of the first important to learning English. But this is not a business that can be undertaken in a day or swiftly improvised by a mere command of the will.
+
+### 知识点总结
+**improvise**  即兴创作；即兴表演；临时做；临时提供
+
+**a mere of**  仅仅
