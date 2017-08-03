@@ -296,3 +296,22 @@ The accumulation of vocabulary is therefore a policy of the first important to l
 **improvise**  即兴创作；即兴表演；临时做；临时提供
 
 **a mere of**  仅仅
+
+## Day 9
+### 例句
+> Punctuation, in other words, has not always been the epitome of order that some of its fans think. It is unsurprising that the rise of computers would unsettle a system that had barely settled to begin with. Fortunately, most of the upheaval is confined to new channels: e-mail, texting, Twitter.  
+流行符号，换句话说，并不总像它的支持者认为的那样是秩序的缩影。电脑的兴起会扰乱本就不稳固的体系就不足为奇了。幸运的是，大多数的剧变仅限于新渠道：电子邮件、短信、推特。
+
+### 句型
+AAA, in other words, has not always been XXX that some of its fans think. It is unsurprising that the rise of BBB would unsettle a system that had barely settled to begin with. Fortunately, most of the DDD is confined to CCC.  
+AAA，换句话说，并不总像它的支持者认为的那样是XXX，BBB的兴起会扰乱了本就不稳固的体系就不足为奇了。幸运的是，大多数的DDD仅限于CCC。
+
+### 炼句
+Printing books, in other words, has not always been irreplaceable that some scholars think. It is unsurprising that the rise of e-book would unsettle a system that had barely settled to begin with. Fortunately, most of the e-reading is confined to fiction, news, and pre-release version of publications.
+
+### 知识点总结
+**epitome** [ɪ'pɪtəmi] n. 缩影；摘要；象征
+
+**upheaval** n. 剧变；隆起；举起
+
+**be confined to** 局限于
