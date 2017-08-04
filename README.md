@@ -315,3 +315,23 @@ Printing books, in other words, has not always been irreplaceable that some scho
 **upheaval** n. 剧变；隆起；举起
 
 **be confined to** 局限于
+
+## Day 10
+### 例句
+> That the equipment of modern camping becomes yearly more sophisticated is an entertaining paradox for cynic, a brighter promise for the hopeful traveler who has sworn to get away from it all.  
+现代露营装备一年比一年讲究，这对那些愤世嫉俗者来说是一件有趣的自相矛盾的事情，而对发誓用露营摆脱烦恼的人来说，却带来了更光明的前景。
+
+### 句型
+The AAA becomes yearly more sophisticated is BBB(形容AAA)for the CCC, a brighter promise for DDD who has sworn to get away from it all.  
+AAA一年比一年讲究，这对CCC是件BBB的事情，而对发誓用AAA摆脱烦恼的DDD来说，却带来了更光明的前景。
+### 炼句
+The university becomes yearly more sophisticated is something to worry about for the educationalist, a brighter promise for students who has sworn to get away from it all.
+### 知识点总结
+**paradox**   悖论，反论；似非而是的论点；自相矛盾的人或事
+
+**cynic** 愤世嫉俗的人
+
+**swear**  发誓
+
+**get away from it all**  远离尘世，摆脱烦恼  
+例：People want to get away from it all, but worry that they can't afford to.
