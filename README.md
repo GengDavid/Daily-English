@@ -335,3 +335,23 @@ The university becomes yearly more sophisticated is something to worry about for
 
 **get away from it all**  远离尘世，摆脱烦恼  
 例：People want to get away from it all, but worry that they can't afford to.
+
+## Day 1
+### Sentence 1
+> We journalists make it a point to know very little about an extremely wide variety of topics. This is how we stay objective.
+
+#### Analyzation
+**make it a point to** 确保做某事（相当于make sure）
+#### 炼句
+It is possible to achieve to goal if you make it a point to stick to your plan.
+### Sentence 2
+> Boston, or more specifically, Faneuil Hall, is sometimes referred to as the Cradle of Liberty.
+
+#### Analyzation
+**or more specifically** 或者更具体地说，（句中插入语值得学习）
+
+**...is the cradle of...** ...是...的摇篮（发源地）
+
+**be referred to as**  被称为...
+#### 炼句
+Terrene, or more specifically, Africa, is definitely confirmed as the cradle of human civilization.
