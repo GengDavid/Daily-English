@@ -253,16 +253,17 @@ In this day, I accumulated several useful sentences as follow.
 > The American government will explore every avenue toward peace in this region.  
 
 #### Analyzation
-"explore every avenue toward ..." ： “探索完成...的所有途径”
+- "explore every avenue toward ..." ： “探索完成...的所有途径”
+
 #### 炼句
 Every competitors are exploring every avenue toward the first prize in this competition.  
 ### Sentence 2
 > They worked in Women's Shelter to protect the battered and abused women, to awaken the conscience of society and to arouse compassion for the weak.
 
 #### Analyzation
-**awaken the conscience of**：唤醒...(常为society)的良知或责任感
+- **awaken the conscience of**：唤醒...(常为society)的良知或责任感
+- **arouse compassion for**: 唤起对...的同情，注意介词是for  
 
-**arouse compassion for**: 唤起对...的同情，注意介词是for  
 #### 炼句
 The often run some charity events to awaken the conscience of society.
 ### Sentence 3
@@ -270,13 +271,11 @@ The often run some charity events to awaken the conscience of society.
 > 2. The space trash problem is far from being solved. In fact, all efforts to bring down space trash have failed glaringly and, ironically, have led to even more trash in the outer space.
 
 #### Analyzation
-**far from being...** 完全不是...， 常用于进行正面论证
+- **far from being...** 完全不是...， 常用于进行正面论证
+- **know... inside out**: 对...了如指掌
+- **fail glaringly**: 惨重的失败
+- **..., ironically,**: ...有讽刺意味的是...
 
-**know... inside out**: 对...了如指掌
-
-**fail glaringly**: 惨重的失败
-
-**..., ironically,**: ...有讽刺意味的是...
 #### 炼句
 Far from being hardworking, he lose himself in  playing computer games.
 
@@ -336,22 +335,22 @@ The university becomes yearly more sophisticated is something to worry about for
 **get away from it all**  远离尘世，摆脱烦恼  
 例：People want to get away from it all, but worry that they can't afford to.
 
-## Day 1
+## Day 11
 ### Sentence 1
 > We journalists make it a point to know very little about an extremely wide variety of topics. This is how we stay objective.
 
 #### Analyzation
-**make it a point to** 确保做某事（相当于make sure）
+- **make it a point to** 确保做某事（相当于make sure）
+
 #### 炼句
 It is possible to achieve to goal if you make it a point to stick to your plan.
 ### Sentence 2
 > Boston, or more specifically, Faneuil Hall, is sometimes referred to as the Cradle of Liberty.
 
 #### Analyzation
-**or more specifically** 或者更具体地说，（句中插入语值得学习）
+- **or more specifically** 或者更具体地说，（句中插入语值得学习）
+- **...is the cradle of...** ...是...的摇篮（发源地）
+- **be referred to as**  被称为...
 
-**...is the cradle of...** ...是...的摇篮（发源地）
-
-**be referred to as**  被称为...
 #### 炼句
 Terrene, or more specifically, Africa, is definitely confirmed as the cradle of human civilization.
