@@ -368,7 +368,16 @@ Terrene, or more specifically, Africa, is definitely confirmed as the cradle of 
 > 2. This kind of good psychology and quality could make him feel just like a fish in water in most environments, whenever confronting difficulties; he could rise to the occasion.
 
 ### Analyzation
-**rise to the occasion** 可以理解为 “迎难而上” 或 “应对自如”
+- **rise to the occasion** 可以理解为 “迎难而上” 或 “应对自如”
 
 ### 炼句
 With the help of my parents and friends, I regained confidence and rose to the occasion.
+
+### Sentence 3
+> He did all this as a labor of love. He didn't need any recognition.
+
+### Analyzation
+- **labor of love**  心甘情愿去做的事
+
+### 炼句
+He teach these children as a volunteer, and he regard it as a labor of love.
