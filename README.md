@@ -354,3 +354,21 @@ It is possible to achieve to goal if you make it a point to stick to your plan.
 
 #### 炼句
 Terrene, or more specifically, Africa, is definitely confirmed as the cradle of human civilization.
+
+## Day 12
+### Sentence 1
+> If I want some peace and quiet, I take sanctuary in my study.
+
+### Analyzation
+- **take sanctuary in...** 在...中找到避风港  
+*（写study这么俗的话题都顿时有了逼格有木有）*
+
+### Sentence 2
+> 1. Being prepared gives one enough confidence to rise to the occasion and deliver what he/she knows best.  
+> 2. This kind of good psychology and quality could make him feel just like a fish in water in most environments, whenever confronting difficulties; he could rise to the occasion.
+
+### Analyzation
+**rise to the occasion** 可以理解为 “迎难而上” 或 “应对自如”
+
+### 炼句
+With the help of my parents and friends, I regained confidence and rose to the occasion.
