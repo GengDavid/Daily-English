@@ -380,4 +380,4 @@ With the help of my parents and friends, I regained confidence and rose to the o
 - **labor of love**  心甘情愿去做的事
 
 ### 炼句
-He teach these children as a volunteer, and he regard it as a labor of love.
+He teach these children as a volunteer, and he regards it as a labor of love.
