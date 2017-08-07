@@ -381,3 +381,20 @@ With the help of my parents and friends, I regained confidence and rose to the o
 
 ### 炼句
 He teach these children as a volunteer, and he regards it as a labor of love.
+
+## Day 13
+### 例句
+> Pleasure in itself is a great good, all pleasure, but its consequences may be such that the sensible person eschews certain varieties of it. Nor need pleasure be gross and sensual.  
+享受本身是件好事，享受就是享受，只是它会造成不同的后果，所以有些方式的享受，对有理智的人来说是不可取的。享受也不一定是庸俗的和充满私欲的。
+
+### 句型
+AAA in itself is a great good, all AAA, but its consequences may be such that the sensible person eschews certain varieties of it. Nor need AAA be CCC and DDD. 【关于“适可而止”】
+
+### 炼句
+Making money itself is a great good, all of it, but its consequences may be such that the sensible person eschews certain ways of it. Nor need the way of making money be immoral and illegal.
+### 知识点总结
+**eschew** [ɪsˈtʃuː] vt. 避免；避开；远避  
+
+**gross** 有 恶劣的 的意思
+
+**sensual** 世俗的，私欲的
