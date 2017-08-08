@@ -398,3 +398,27 @@ Making money itself is a great good, all of it, but its consequences may be such
 **gross** 有 恶劣的 的意思
 
 **sensual** 世俗的，私欲的
+
+## Day 14
+### 例句
+> 1. “Talent” is one of those irritating words that has been hijacked by management gurus. It used to mean innate ability, but in modern business it has become a synonym for brainpower (both natural and trained) and especially the ability to think creative.  
+“才能”是被管理大师们掌控的那些令人不安的字眼之一，过去它指的是人的天赋，而现代商业中它已经成为才智（天生的或者后天训练出的）的同义词，尤其指创造性思维的能力。
+> 2. Luxury good is one of those irritating words that has been hijacked by the wealthy elite. It used to mean the pursuit for high-quality life, but in modern world it has become a synonym for money worship (both spiritual and material) and especially the inability to cut one’s coat according to one’s cloth.  
+奢侈品，是被财富精英掌控的那些令人不安的字眼之一，过去它指的是一种对高品质生活的追求，而现在它已经成为了拜金的同义词（包括精神上和物质上），尤其考虑到没有能力量入为出。
+
+### 句型
+“A” is one of those irritating words that has been hijacked by BBB. It used to mean CCC, but in modern world/business it has become a synonym for DDD and especially the ability to EEE.
+
+### 炼句
+"Wealth" is one of those irritating words that has been hijacked by people from upper class. It used to mean having more money, but in modern world it has become a synonym for status (both political and financial), especially the ability to get everything he/she want.
+
+### 知识点总结
+**irritating** 刺激的，令人不安的，气人的
+
+**be hijacked by** 被劫持，被掌控
+
+**guru** 领袖，专家
+
+**money worship** 拜金主义
+
+**cut one's coat according to one's cloth** 量力而为
