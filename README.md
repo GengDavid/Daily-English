@@ -432,5 +432,8 @@ Making money itself is a great good, all of it, but its consequences may be such
 Partnerships between A and B are redefining C, and they will be key to helping B meet the growing global demand for D. Increasingly, A are working closely with B to reach more E with F—something they would not be able to do on their own.
 
 ### 炼句
-Partnerships between Internet companies and physical stores are redefining daily marketing mode,, and they will be key to helping physical stores meet the growing global demand for market in the digital age. Increasingly, physical stores are working closely with Internet companies to reach more profit with efficient Internet--something they would not be able to do on their own.
+Partnerships between Internet companies and physical stores are redefining daily marketing mode, and they will be key to helping physical stores meet the growing global demand for market in the digital age. Increasingly, physical stores are working closely with Internet companies to reach more profit with efficient Internet—something they would not be able to do on their own.
 ### 知识点总结
+今天积累一个很有用的短语:  
+**get into the swing of things**  顺应环境、身边的事物  
+例：Don't be too hard on yourself. Moving to a new country can be really stressful and it'll take a while for you to get into the swing of things.
