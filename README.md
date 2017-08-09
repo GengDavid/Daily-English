@@ -422,3 +422,15 @@ Making money itself is a great good, all of it, but its consequences may be such
 **money worship** 拜金主义
 
 **cut one's coat according to one's cloth** 量力而为
+
+## Day 15
+### 例句
+> Partnerships between universities and private companies are redefining American education landscape, and they will be key to helping schools meet the growing global demand for education in the digital age. Increasingly, institutions of higher education are working closely with employers to reach more students with their offerings—something they would not be able to do on their own.  
+大学与私人公司之间的合作关系正在重新定义美国的教育，而且会成为帮助学校在信息时代迎合国际需求的关键因素。高等（留学）教育机构正在和雇主紧密合作为了帮助更多学生拿到工作录取，而这个东西是学生自己很难搞定的。
+
+### 句型
+Partnerships between A and B are redefining C, and they will be key to helping B meet the growing global demand for D. Increasingly, A are working closely with B to reach more E with F—something they would not be able to do on their own.
+
+### 炼句
+Partnerships between Internet companies and physical stores are redefining daily marketing mode,, and they will be key to helping physical stores meet the growing global demand for market in the digital age. Increasingly, physical stores are working closely with Internet companies to reach more profit with efficient Internet--something they would not be able to do on their own.
+### 知识点总结
