@@ -1,5 +1,5 @@
 # Daily English
-In this repo, I'll collect and study many useful and awesome sentences everyday. 
+In this repo, I'll collect and study many useful and awesome sentences everyday.
 ## Day 0
 ### 例句：
 > 1. Even if one didn't konw from concrete examples (the 1936 Olympic Game, for instance) that international sporting contest leads to orgies of hatred, one could deduce it from general principle.
@@ -437,3 +437,15 @@ Partnerships between Internet companies and physical stores are redefining daily
 今天积累一个很有用的短语:  
 **get into the swing of things**  顺应环境、身边的事物  
 例：Don't be too hard on yourself. Moving to a new country can be really stressful and it'll take a while for you to get into the swing of things.
+
+## Day 16
+### 例句
+> As new technologies have transformed many aspects of daily life, new questions have arisen. The digital world is changing around us at a dizzying pace; parents want guidance, and pediatricians want to answer their questions with helpful and scientifically valid advice. The American Academy of Pediatrics’ policy on children and media is probably best known for two recommendations: to discourage any screen time for children under 2, and to limit screen time to two hours a day for older children.
+
+### 句型
+As new technologies have transformed many aspects of daily life, new questions have arisen. AA is changing around us at a dizzying pace; BB want guidance, and CC want to answer their questions with helpful and scientifically valid advice. DD is probably best known for two recommendations: to do EE, and to do FF.  
+【可以用来解读新技术带来的变化以及矛盾，并陈列各方意见进行比对分析。】
+### 炼句
+As new technologies have transformed many aspects of daily life, new questions have arisen. Artificial intelligence is changing around us at a dizzying pace; Companies want to make a big profit throw it, and researchers can help them with useful and scientifically valid advice. Specialist is probably best known for two recommendations: to integrate AI into our daily life, and to benefit as many people as possible.
+### 知识点总结
+**at a dizzying pace** 以惊人的速度
