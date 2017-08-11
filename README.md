@@ -452,7 +452,7 @@ As new technologies have transformed many aspects of daily life, new questions h
 
 ## Day 17
 ### 例句
-> It seems, then, that thinking about saving has the opposite effect on people from thinking about luxury. Saving makes environment more enjoyable than normal, rather than less so. Moreover, the more economical they are, the more livable their environment becomes.
+> It seems, then, that thinking about saving has the opposite effect on people from thinking about luxury. Saving makes environment more enjoyable than normal, rather than less so. Moreover, the more economical they are, the more livable their environment becomes.  
 由此，我们似乎可以得出这样一个结论，节约观和奢侈观对人们所产生的影响是截然不同的。节约观念带给环境的只会是正面影响，绝非负面影响。而且，一个人越懂得节约，他的生活环境就能越美好。
 
 ### 句型
