@@ -449,3 +449,16 @@ As new technologies have transformed many aspects of daily life, new questions h
 As new technologies have transformed many aspects of daily life, new questions have arisen. Artificial intelligence is changing around us at a dizzying pace; Companies want to make a big profit throw it, and researchers can help them with useful and scientifically valid advice. Specialist is probably best known for two recommendations: to integrate AI into our daily life, and to benefit as many people as possible.
 ### 知识点总结
 **at a dizzying pace** 以惊人的速度
+
+## Day 17
+### 例句
+> It seems, then, that thinking about saving has the opposite effect on people from thinking about luxury. Saving makes environment more enjoyable than normal, rather than less so. Moreover, the more economical they are, the more livable their environment becomes.
+由此，我们似乎可以得出这样一个结论，节约观和奢侈观对人们所产生的影响是截然不同的。节约观念带给环境的只会是正面影响，绝非负面影响。而且，一个人越懂得节约，他的生活环境就能越美好。
+
+### 句型
+It seems, then, that AAA has the opposite effect on people from BBB. AAA makes CCC more DDD than normal, rather than less so. Moreover, the more EEE they are, the more FFF their CCC becomes.
+
+### 炼句
+It seems, then, that being friendly to others has the opposite effect on people from being selfish. Being friendly makes the relationship between people more harmonious than normal, rather than less so. Moreover, the more friendly they are, the more reliable their relationship becomes.
+### 知识点总结
+**amity**  友好关系
