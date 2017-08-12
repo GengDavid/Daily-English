@@ -462,3 +462,13 @@ It seems, then, that AAA has the opposite effect on people from BBB. AAA makes C
 It seems, then, that being friendly to others has the opposite effect on people from being selfish. Being friendly makes the relationship between people more harmonious than normal, rather than less so. Moreover, the more friendly they are, the more reliable their relationship becomes.
 ### 知识点总结
 **amity**  友好关系
+
+## Day 18
+### Sentence 1
+> Worry is a spasm of the emotion, the mind catches hold of something and will not let it go.
+
+### Analyzation
+**a spasm of** 一阵
+**catch hold of** 抓住，握住
+### 炼句
+In some cases, whether you can succeed depend on catching hold of the indeal that apear just a moment.
