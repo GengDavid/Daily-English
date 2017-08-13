@@ -484,3 +484,15 @@ When they saw the luxury car the first time, they felt so exiting, for the chanc
 ### 知识点总结
 **feel obliged to** 觉得有义务去做，觉得应该去做...
 
+## Day 20
+### 例句
+> Coining a phrase is one thing, living up to it is another. The Labour Party’s recent offensive on living costs was long on point-scoring and short on detailed solutions. The government boasts of its remedies(increasing the income-tax threshold and cutting beer tax, for example), but most are more than offset by the fall in real incomes.  
+喊口号是一回事，而能否实现却是另一回事。工党近来在公民生活费用文体上咄咄逼人，但是却很少提出详细的解决方法。政府在一味吹嘘他们诸如提高收入的个税起征点、削减啤酒税等补救策略，但多数却由于公民真实收入减少造成这些补偿款的入不敷出。
+
+### 句型：
+Coining a phrase is one thing, living up to it is another. AAA was long on point-scoring and short on detailed solutions. BBB boasts of its remedies(increasing the CCC and DDD, for example), but most are more than offset by EEE.
+喊口号是一回事，而能否实现却是另外一回事。AAA擅长博取分数，但是却很少提出详细的解决方法。政府在一味吹嘘它的补救策略，但多数却由于缺乏可行性而难以推行。
+
+### 炼句
+
+### 知识点总结
