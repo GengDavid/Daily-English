@@ -467,8 +467,20 @@ It seems, then, that being friendly to others has the opposite effect on people 
 ### Sentence 1
 > Worry is a spasm of the emotion, the mind catches hold of something and will not let it go.
 
-### Analyzation
+#### Analyzation
 **a spasm of** 一阵
 **catch hold of** 抓住，握住
-### 炼句
+#### 炼句
 In some cases, whether you can succeed depend on catching hold of the indeal that apear just a moment.
+
+## Day 19
+### 例句
+> However, when experts from the Zoo received more and more evidence, they felt obliged to investigate, for the descriptions given by people who claimed to have seen the puma were extraordinarily similar.
+
+### Analyzation
+一个句子一个主语看起开很无味，巧妙链接主语不同的句子
+### 炼句
+When they saw the luxury car the first time, they felt so exiting, for the chance given by merchant that allowed them to drive it for a day.
+### 知识点总结
+**feel obliged to** 觉得有义务去做，觉得应该去做...
+
