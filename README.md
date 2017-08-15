@@ -490,9 +490,23 @@ When they saw the luxury car the first time, they felt so exiting, for the chanc
 喊口号是一回事，而能否实现却是另一回事。工党近来在公民生活费用文体上咄咄逼人，但是却很少提出详细的解决方法。政府在一味吹嘘他们诸如提高收入的个税起征点、削减啤酒税等补救策略，但多数却由于公民真实收入减少造成这些补偿款的入不敷出。
 
 ### 句型：
-Coining a phrase is one thing, living up to it is another. AAA was long on point-scoring and short on detailed solutions. BBB boasts of its remedies(increasing the CCC and DDD, for example), but most are more than offset by EEE.
-喊口号是一回事，而能否实现却是另外一回事。AAA擅长博取分数，但是却很少提出详细的解决方法。政府在一味吹嘘它的补救策略，但多数却由于缺乏可行性而难以推行。
+Coining a phrase is one thing, living up to it is another. AAA was long on point-scoring and short on detailed solutions. BBB boasts of its remedies(increasing the CCC and DDD, for example), but most are more than offset by EEE.  
+喊口号是一回事，而能否实现却是另外一回事。AAA擅长博取分数，但是却很少提出详细的解决方法。BBB在一味吹嘘它的补救策略，但多数却由于缺乏可行性而难以推行。
 
 ### 炼句
-
+Coining a phrase is one thing, living up to it is another. The school's recent commitment on the improvement of teaching quality was long on point-scoring and short on detailed solution. The headmaster boasts of his remedies(increasing the amont of facilities and enhance the classroom discipline, for example), but most are more than offset by the increasement of the wherewithal.
 ### 知识点总结
+**Coin a phrase**  常言道；编造一句话
+
+**live up to**  不辜负；做到；实践
+
+**offensive** n. 攻击，攻势； adj. 攻击的；冒犯的；无礼的；讨厌的 *(在此作名词)*
+
+**boast**  vt. 自夸，自吹自擂说；以有…而自豪； *(也可作名词)*
+
+**remedies** n. 救济策略（remedy的复数）
+
+**more than offset by** 不足以弥补...；(被)超过  
+例：The operating expenses are more than offset by the value of byproducts, including the gold.
+
+**wherewithal** 必要的资金
