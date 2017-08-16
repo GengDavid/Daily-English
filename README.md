@@ -513,7 +513,7 @@ Coining a phrase is one thing, living up to it is another. The school's recent c
 
 ## Day 21
 ### 例句
-To equate slums with idleness and misery is to misunderstand them.  
+> To equate slums with idleness and misery is to misunderstand them.  
 给贫民窟贴上无所事事和不幸的标签，这是对他们的误解。
 
 ### 句型
@@ -523,4 +523,20 @@ To equate AAA with BBB and CCC(视情况而定，可以没有and部分)is to mis
 ### 炼句
 To equate English learning with recitation is to misunderstand it.
 ### 知识点总结
+**equate xxx with xxx** 把...等同于...；给...贴上...标签
+
 **idleness** n. 懒惰；闲散；失业
+
+## Day 22
+### 例句
+> Nothing has received more praise and abuse than the Internet , although we may pride of the efficiency achieved with the help of it, we are no longer free to a life of serenity.  
+没有什么比网络更毁誉参半的了，尽管我们可以对在互联网帮助下所取得的工作效率而自豪，但我们已经离宁静的生活愈来愈远。
+
+### 句型
+Nothing has received more praise and abuse than (A). Although we may pride of (B), we are no longer free to (C), for (D与A有关)。
+### 炼句
+Nothing has received more praise and abuse than air conditioner, although we may pride of the cool it bring to us, we are no longer free to enjoy the nature.
+### 知识点总结
+**Nothing has received more praise and abuse than...** 没有什么比...更毁誉参半的了，用于议论具有两面性的事物
+
+**serenity** [si'renəti] n. 平静，宁静；晴朗，风和日丽
