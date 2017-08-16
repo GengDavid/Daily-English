@@ -510,3 +510,17 @@ Coining a phrase is one thing, living up to it is another. The school's recent c
 例：The operating expenses are more than offset by the value of byproducts, including the gold.
 
 **wherewithal** 必要的资金
+
+## Day 21
+### 例句
+To equate slums with idleness and misery is to misunderstand them.  
+给贫民窟贴上无所事事和不幸的标签，这是对他们的误解。
+
+### 句型
+To equate AAA with BBB and CCC(视情况而定，可以没有and部分)is to misunderstand them/it.
+(动词可以换，可正面可反面，看整体内容怎么写)
+
+### 炼句
+To equate English learning with recitation is to misunderstand it.
+### 知识点总结
+**idleness** n. 懒惰；闲散；失业
