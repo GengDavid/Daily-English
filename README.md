@@ -540,3 +540,17 @@ Nothing has received more praise and abuse than air conditioner, although we may
 **Nothing has received more praise and abuse than...** 没有什么比...更毁誉参半的了，用于议论具有两面性的事物
 
 **serenity** [si'renəti] n. 平静，宁静；晴朗，风和日丽
+
+## Day 23
+### 例句
+> When we think about the opposite of work, many times, we think it is leisure. But the fact is that, leisure is a very busy thing and a very crowded thing that we do. The opposite of work is “idleness”.  
+想到工作的反义词时，很多次我们想到的是休闲。不过实际上，休闲是个非常累人的过程，我们要做的事情多的让人应接不暇。其实工作的反义词是“无所事事”。
+
+### 句型
+When we think about the opposite of A, many times, we think it is B. But the fact is that, B is a ... thing. The opposite of A is “C”.  
+想到A的反义词时，很多次我们想到的是B。不过实际上，B是XXX的事情。其实A的反义词是“C”。
+### 炼句
+When we think about the opposite of talent, many times, we think it is stupid. But the fact is that, stupid is a subjective word. The opposite of talent is "inefficient".
+### 知识点总结
+积累一个表达东西诱人的句子：  
+**It was difficult not to be tempted by it.**  要想不为这些东西所动心是很困难的
