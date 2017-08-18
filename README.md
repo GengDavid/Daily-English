@@ -543,10 +543,8 @@ Nothing has received more praise and abuse than air conditioner, although we may
 
 ## Day 23
 ### 例句
-> 1. When we think about the opposite of work, many times, we think it is leisure. But the fact is that, leisure is a very busy thing and a very crowded thing that we do. The opposite of work is “idleness”.  
+> When we think about the opposite of work, many times, we think it is leisure. But the fact is that, leisure is a very busy thing and a very crowded thing that we do. The opposite of work is “idleness”.  
 想到工作的反义词时，很多次我们想到的是休闲。不过实际上，休闲是个非常累人的过程，我们要做的事情多的让人应接不暇。其实工作的反义词是“无所事事”。
-> 2. While the high-technology gives us access to more convenience than before, paradoxically, we are becoming increasingly immersed in shallow answers to trivial questions.  
-当高科技给我们比之前更多的便捷时，矛盾的是，我们变得越来越沉浸在小问题的肤浅答案之中。
 
 ### 句型
 When we think about the opposite of A, many times, we think it is B. But the fact is that, B is a ... thing. The opposite of A is “C”.  
@@ -559,9 +557,10 @@ When we think about the opposite of talent, many times, we think it is stupid. B
 
 ## Day 24
 ### 例句
-> While the Internet gives us access to more information than before, paradoxically, we are becoming dimmer and more superficial as a people.  
+> 1. While the Internet gives us access to more information than before, paradoxically, we are becoming dimmer and more superficial as a people.  
 当互联网给我们比之前获得更多的信息时，矛盾的是，我们变得更混沌和肤浅。
-
+> 2. While the high-technology gives us access to more convenience than before, paradoxically, we are becoming increasingly immersed in shallow answers to trivial questions.  
+当高科技给我们比之前更多的便捷时，矛盾的是，我们变得越来越沉浸在小问题的肤浅答案之中。
 ### 句型
 While A gives B access to C than before, paradoxically, B are becoming D.  
 当A使B获得更多的C时，矛盾的是，B变得更D。
@@ -572,6 +571,6 @@ While mordern technology gives us access to more nature than before, paradoxical
 
 **anaclitic** 情感依附的
 
-** immerse in** 全神贯注于，专心于；把…浸入水中
+**immerse in** 全神贯注于，专心于；把…浸入水中
 
 **trivial** 不重要的，琐碎的；琐细的
