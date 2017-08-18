@@ -567,7 +567,7 @@ While A gives B access to C than before, paradoxically, B are becoming D.
 ### 炼句
 While mordern technology gives us access to more nature than before, paradoxically, we are becoming more greedy and more incontinent than before.
 ### 知识点总结
-**paradoxically** adv. 自相矛盾地；似非而是地；反常地  
+**paradoxically** 自相矛盾地；似非而是地；反常地  
 
 **anaclitic** 情感依附的
 
