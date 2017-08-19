@@ -581,7 +581,7 @@ While mordern technology gives us access to more nature than before, paradoxical
 虽然科技可能是推动一个国家进步的最大动力，但还有其他因素。国民的整体素质便是其中之一。
 
 ### 句型
-Although AAA may be the most powerful impulses to BBB, there are others. BBB is one of them. 
+Although AAA may be the most powerful impulses to BBB, there are others. BBB is one of them.  
 一般用于开头陈述观点的时候
 ### 炼句
 Although wealth and status may be the most powerful impulses to encourage a man to endeavor, there are others. The thirst for knowledge is one of them.
