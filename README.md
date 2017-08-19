@@ -574,3 +574,16 @@ While mordern technology gives us access to more nature than before, paradoxical
 **immerse in** 全神贯注于，专心于；把…浸入水中
 
 **trivial** 不重要的，琐碎的；琐细的
+
+## Day 25
+### 例句
+> Although science and technology may be the most powerful impulses to push forward a country, there are others. The overall quality of its people is one of them.  
+虽然科技可能是推动一个国家进步的最大动力，但还有其他因素。国民的整体素质便是其中之一。
+
+### 句型
+Although AAA may be the most powerful impulses to BBB, there are others. BBB is one of them. 
+一般用于开头陈述观点的时候
+### 炼句
+Although wealth and status may be the most powerful impulses to encourage a man to endeavor, there are others. The thirst for knowledge is one of them.
+### 知识点总结
+**thirst for knowledge** 求知欲
