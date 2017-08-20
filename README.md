@@ -587,3 +587,26 @@ Although AAA may be the most powerful impulses to BBB, there are others. BBB is 
 Although wealth and status may be the most powerful impulses to encourage a man to endeavor, there are others. The thirst for knowledge is one of them.
 ### 知识点总结
 **thirst for knowledge** 求知欲
+
+## Day 26
+### 例句
+> With the advent of the new phase of technology we call automation, we have the promise both of greater leisure and even greater material and intellectual riches.  
+随着我们称之为自动化的技术新时代的到来，我们将拥有更多的闲暇时光，享有更多的物质和精神财富。
+
+### 句型
+With the advent of ... we have the promise of ...  
+用于陈述主体的现状与优点
+### 炼句
+With the advent of computer, we have the promise of much more convenient way to work and study, and a powerful tool for communication.
+### 知识点总结
+**with the advent of** 随着…的出现
+### 例句2
+> Science and technology have come to pervade every aspect of our lives, and, as a result, society is changing at a speed which is quite unprecedented.  
+科技已渗入我们生活的方方面面，由此社会以前所未有的速度发生着变化
+
+### 句型
+...have come to pervade every aspect of our lives, and, as a result,...
+### 炼句
+Mobile phone have come to pervade every aspect of our lives, and as a result, we can do nearly everything with our smartphone.
+### 知识点总结
+**pervade** 遍及；弥漫；渗透；充满
