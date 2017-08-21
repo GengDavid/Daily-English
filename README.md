@@ -610,3 +610,23 @@ With the advent of computer, we have the promise of much more convenient way to 
 Mobile phone have come to pervade every aspect of our lives, and as a result, we can do nearly everything with our smartphone.
 ### 知识点总结
 **pervade** 遍及；弥漫；渗透；充满
+
+## Day 27
+###  例句
+> With reference to the skill of speaking, eloquence(口才) is a most direct indication of one’s outstanding talent, thus paving the way toward career success. We could trace evidence to Oprah Winfrey, the world renowned talk show queen. Her unparalleled talking skills appeal to all ages and races. Her fearless courage and ability to emphasized key points indicate that she is able to connect with the hearts and souls of her guests and audience.  
+在口语技能方面，口才是一个人杰出才华的最直接体现，因此可为其成功铺平道路。我们可以从名镇全球的脱口秀女王奥普拉温弗瑞身上获得印证。她那举世无双的口才使所有年龄和种族的人都为之叹服。她无所畏惧的勇气以及善与抓住要点的能力说明她能够与嘉宾和观众的心灵紧密相连。
+
+### 句型
+With the reference to the skill of AAA, AAA’(AAA的同义词) is a most direct indication of one’s outstanding talent, thus paving the way toward career success. We could trace evidence to BBB(人名), the CCC(定从). His/Her unparalleled AAA skills appeal to DDD. His/Her fearless courage and ability to EEE indicated that he/ she is able to FFF.  
+在AAA方面，AAA’是一个人杰出才华的最直接的体现，因此可为其事业成功铺平道路。我们可以从BBB身上获得印证。他/她那举世无双的AAA吸引住了DDD，他/她无所畏惧的勇气以及EEE方面的能力说明他/她能FFF。
+### 炼句
+With the reference to the skill of programming, the ability of sharing is a most direct indication of one's outstanding talent, thus paving the way toward career success. We could trace evidence to Linus Torvalds, the funder of Linux operation system. His unparalleled programming skills and his spirit of sharing appeal to millions of programmer to join his work. His fearless courage and ability to breaking the routine indicated that he is able to shake the world of programming.
+### 知识点总结
+**paving the way toward career success** 为成功铺平道路
+
+**renowned**  著名的；有声望的  
+renown:  
+n. 声誉；名望  
+vt. 使有声望
+
+**unparalleled**  无比的；无双的；空前未有的
