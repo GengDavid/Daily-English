@@ -630,3 +630,18 @@ n. 声誉；名望
 vt. 使有声望
 
 **unparalleled**  无比的；无双的；空前未有的
+
+## Day 28
+### 例句
+> But even if the government walks away from the battle, the growing number of state and local authorities seeking the FBI’s help with locked phones in criminal probes increases the likelihood that the FBI will have to provide it. When that happens, defense attorneys will cross-examine the experts involved.  
+但是即使政府回避这场争论，越来越多的州和地方政府会寻求FBI的帮助去解锁电话，这会提高FBI解锁成功的可能性。当这种情况发生时，辩护律师也会反复询问相关领域的专家。
+
+### 句型
+But even if the AAA walks away from the BBB, the growing number of CCC and DDD seeking the EEE’s help with FFF increases the likelihood that the EEE will have to provide it.  
+但是即使AAA回避BBB，越来越多的CCC和DDD会寻求EEE的帮助去解决问题（FFF），则会提高EEE解决问题的效率。
+### 炼句
+But even if some merchants walk away from the protection of intellectual property, the growing number of intelligent and skilled workers and authorized shops seeking the legal aid with the tort problem increases the likelihood that the supervision department will have to take effective measures against it.
+### 知识点总结
+**walk away from** 回避；离开
+
+**legal aid** 法律援助
