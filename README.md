@@ -565,7 +565,7 @@ When we think about the opposite of talent, many times, we think it is stupid. B
 While A gives B access to C than before, paradoxically, B are becoming D.  
 当A使B获得更多的C时，矛盾的是，B变得更D。
 ### 炼句
-While mordern technology gives us access to more nature than before, paradoxically, we are becoming more greedy and more incontinent than before.
+While modern technology gives us access to more nature than before, paradoxically, we are becoming more greedy and more incontinent than before.
 ### 知识点总结
 **paradoxically** 自相矛盾地；似非而是地；反常地  
 
@@ -645,3 +645,20 @@ But even if some merchants walk away from the protection of intellectual propert
 **walk away from** 回避；离开
 
 **legal aid** 法律援助
+
+## Day 29
+### 例句
+> 1. But Alfred had deduced that the Danes were no longer fit for prolonged battle: and that their commissariat had no organization, but depended on irregular raids.  
+但艾尔弗雷德断定，丹麦人已不再适应持久的战争，他们的军需供应处于无组织状态，只是靠临时突击。
+> 2. But environmentalists have deduced that traditional fossil fuels are no longer fit for the development of green economy, and that their exploitation has to consume a lot of labor and money, leading to increasingly exacerbating environmental problems like global warming and acid deposition in their combustion process.  
+但是环保主义者断定传统的化石燃料已经不适应绿色的经济发展了，他们开采过程需要投入大量人力物力，而且在燃烧过程中会导致诸如全球气候变暖、酸沉降等更为严重的环境问题。
+
+### 句型
+But AAA had deduced that BBB were no longer fit for CCC, and that their DDD had no EEE, but depended on FFF.
+
+### 炼句
+But many people had deduced that traditional written messages were no longer fit for modern communication, and that their transformation had no flexibility, but depended on troublesome delivery.
+### 知识点总结
+**deduce** 推论，推断；演绎出
+
+**raid** n. / v. 袭击；突袭；搜捕；抢劫
