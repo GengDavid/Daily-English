@@ -662,3 +662,16 @@ But many people had deduced that traditional written messages were no longer fit
 **deduce** 推论，推断；演绎出
 
 **raid** n. / v. 袭击；突袭；搜捕；抢劫
+
+## Day 30
+### 例句
+> From what has been discussed above, we may safely draw the conclusion that, although extra studies indeed enjoy many obvious advantages, its disadvantages shouldn’t be ignored and far outweigh its advantages. It is absurd to force children to take extra studies after school.  
+通过以上讨论，我们可以得出结论：尽管额外学习的确有很多优点，但它的缺点不可忽视，且远大于它的优点。因此，放学后强迫孩子额外学习是不明智的。
+
+### 句型
+From what has been discussed above, we may safely draw the conclusion that, although AAA indeed enjoy many obvious advantages, its disadvantages shouldn’t be ignored and far outweigh its advantages. It is absurd to force BBB to CCC.  
+通过以上讨论，我们可以得出结论：尽管AAA的确有很多优点，但它的缺点不可忽视，且远大于它的优点。因此，让BBB做CCC是不明智的。
+### 炼句
+From what has been discussed above, we may safely draw the conclusion that, although headphone indeed enjoy many obvious advantages, its disadvantages shouldn't be ignored and far outweigh its advantages. It is absurd to use headphones in every conditions.
+### 知识点总结
+**enjoy many advantages** 享有很多优势，注意搭配
