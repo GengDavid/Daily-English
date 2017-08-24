@@ -672,6 +672,6 @@ But many people had deduced that traditional written messages were no longer fit
 From what has been discussed above, we may safely draw the conclusion that, although AAA indeed enjoy many obvious advantages, its disadvantages shouldn’t be ignored and far outweigh its advantages. It is absurd to force BBB to CCC.  
 通过以上讨论，我们可以得出结论：尽管AAA的确有很多优点，但它的缺点不可忽视，且远大于它的优点。因此，让BBB做CCC是不明智的。
 ### 炼句
-From what has been discussed above, we may safely draw the conclusion that, although headphone indeed enjoy many obvious advantages, its disadvantages shouldn't be ignored and far outweigh its advantages. It is absurd to use headphones in every conditions.
+From what has been discussed above, we may safely draw the conclusion that, although headphone indeed enjoy many obvious advantages, its disadvantages shouldn't be ignored and far outweigh its advantages. It is absurd to use headphones in every condition.
 ### 知识点总结
 **enjoy many advantages** 享有很多优势，注意搭配
