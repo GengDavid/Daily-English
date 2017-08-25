@@ -685,7 +685,7 @@ From what has been discussed above, we may safely draw the conclusion that, alth
 The best way to overcome AAA —— so at least it seems to me ——is to make BBB more CCC and DDD, until bit by bit the walls of the EEE recede, and your life becomes increasing merged in the universal life.  
 解决AAA的最好办法——至少在我看来是这样——就是逐渐使你的BBB（BBB与克服AAA有关）更CCC和DDD，直到EEE的围墙一点点倒塌下来，自己的生活慢慢地和整个宇宙的生活融合在一起。
 ### 炼句
-The best way to overcome laziness, so at least it seems to me, is to make the work more interesting and feasible, until bit by bit the walls of the tediousness recede, and your life style becomes increasing healthy.
+The best way to overcome laziness, so at least it seems to me, is to make the work more interesting and feasible, until bit by bit the walls of the tediousness recede, and my work becomes increasingly efficient.
 
 ### 知识点总结
 **recede** 后退；减弱 撤回
