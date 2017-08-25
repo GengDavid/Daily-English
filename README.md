@@ -675,3 +675,20 @@ From what has been discussed above, we may safely draw the conclusion that, alth
 From what has been discussed above, we may safely draw the conclusion that, although headphone indeed enjoy many obvious advantages, its disadvantages shouldn't be ignored and far outweigh its advantages. It is absurd to use headphones in every condition.
 ### 知识点总结
 **enjoy many advantages** 享有很多优势，注意搭配
+
+## Day 31
+### 例句
+> The best way to overcome it-- so at least it seems to me -- is to make your interests gradually wider and more impersonal, until bit by bit the walls of the ego recede, and your life becomes increasingly merged in the universal life. An individual human existence should be like a river -- small at first, narrowly contained within its banks, and rushing. Passionately past boulders and over waterfalls. Gradually the river grows wider, the banks recede, the waters flow more quietly, and in the end, without any visible break, they become merged in the sea, and painlessly lose their individual being.  
+克服怕死的最好办法——至少在我看来是这样——就是逐渐使自己的兴趣更加广泛，逐渐摆脱个人狭小的圈子，直到自我的围墙一点一点地倒塌下来，自己的生活慢慢地和整个宇宙的生活融合在一起。个人的存在应该像一条河流，开始很小，被紧紧地夹在两岸中间，接着热情奔放地冲过巨石，飞下瀑布。然后河面渐渐地变宽，两岸后撤，河水流的平缓起来，最后连绵不断地汇入大海，毫无痛苦地失去了自我的存在。
+
+### 句型
+The best way to overcome AAA —— so at least it seems to me ——is to make BBB more CCC and DDD, until bit by bit the walls of the EEE recede, and your life becomes increasing merged in the universal life.  
+解决AAA的最好办法——至少在我看来是这样——就是逐渐使你的BBB（BBB与克服AAA有关）更CCC和DDD，直到EEE的围墙一点点倒塌下来，自己的生活慢慢地和整个宇宙的生活融合在一起。
+### 炼句
+The best way to overcome laziness, so at least it seems to me, is to make the work more interesting and feasible, until bit by bit the walls of the tediousness recede, and your life style becomes increasing healthy.
+
+### 知识点总结
+**recede** 后退；减弱 撤回
+
+**tediousness** 乏味
+近义词： vapidity
