@@ -692,3 +692,30 @@ The best way to overcome laziness, so at least it seems to me, is to make the wo
 
 **tediousness** 乏味
 近义词： vapidity
+
+## Day 32
+### Sentence 1
+Probably few of us have ever stopped to think about how our present-day concept of time and ways of measuring it came about.
+#### Analysis
+**few of us have ever stopped to think about**  很少有人会去考虑...
+#### 炼句
+Few of us have ever stopeed to think about why everything go straight down towards the ground.
+### Sentence 2
+Some scientists believe that human activity has vary little, if any, impact on the recent warming trend on Earth.
+### Analysis
+**vary little, if any, ...**  只有很少的xxx，如果有的话
+#### 炼句
+According to many student in my college, this new police have very little, if any, positive influence on their life.
+### 知识点总结与积累
+**it is paramount to** = it is the most important to
+
+**be at resk** 处于风险中, 注意没有冠词  
+同义短语：  
+- run the risk of ... : 冒着...的风险  
+- be in peril ： 语气更强，一般为非常大的风险  
+- be at stake  
+
+**be at odds with ...** 与...冲突， 与... 不符  
+例: Their findings were at odds with the previous research results, which suggested that there might be some problems with the methods used in the previous experiments.  
+同义短语：  
+clash with ... / be incormpatible with ...
