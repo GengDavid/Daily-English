@@ -719,3 +719,21 @@ According to many student in my college, this new police have very little, if an
 例: Their findings were at odds with the previous research results, which suggested that there might be some problems with the methods used in the previous experiments.  
 同义短语：  
 clash with ... / be incormpatible with ...
+
+## Day 33
+### Sentence 1
+In America, those who often move long distances are generally the kind of people who play the major role in holding the community together, in part / partly because they are more confident and have better career opportunities.
+#### Analysis
+**in part because ... / partly because** 部分是因为...
+#### 炼句
+In China, those who often do physical works are generally the kind of people who live in the bottom of society, partly because of their limited knowledge and their low price labor force.
+### Sentence 2
+Many American citizens frowned on the astronomical budget deficit of their government.
+#### Analysis
+**frown on...** 对...皱眉， 用于内心反对某事时
+### Sentence 3
+Disasters will ensue if they remain unready like this.
+#### Analysis
+**if..., ... will ensue** 如果...， 某种结果将跟随而来
+#### 炼句
+If the unemployment rate still hovers at high levels, economic crisis will ensue.
