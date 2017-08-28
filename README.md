@@ -737,3 +737,18 @@ Disasters will ensue if they remain unready like this.
 **if..., ... will ensue** 如果...， 某种结果将跟随而来
 #### 炼句
 If the unemployment rate still hovers at high levels, economic crisis will ensue.
+
+## Day 34
+### 例句
+> Admission has nothing to do with being an athlete, or a child of an alumnus, or having an influential sponsor, or being a member of a particular aggrieved ethnic group-- criteria that are increasingly important at America’s elite colleges. Most of the students who apply to the honours programme come from relatively poor families.  
+批准与否跟学生是否是一名运动员，或者是不是校友子弟，或者有没有颇具影响力的后台，或者是不是某个爱打抱不平的民族社团成员都毫无干系——而这些在美国的知名学府中已经日益成为重要标准。申请加入荣誉计划的学生大多来自相对贫困的家庭。
+
+### 句型
+AAA has nothing to do with BBB, or CCC, or DDD, or...--criteria that are increasingly important at EEE. Most of FFF who/which(与AAA相同意思的从句)+HHH(与BCD意思相对)
+
+### 炼句
+Success has nothing to do with the number of award, or the popularity of a person, or doing a great job, or owning a huge amount of money -- riteria that are increasinglyl important in the society of a whole. Most of the people who pursue the success are very mammonish or utilitarian.
+### 知识点总结
+**alumnus** 校友
+
+**criteria** criterion的复数 标准，条件
