@@ -752,3 +752,17 @@ Success has nothing to do with the number of award, or the popularity of a perso
 **alumnus** 校友
 
 **criteria** criterion的复数 标准，条件
+
+## Day 35
+### 例句
+> These climate-related disasters have geopolitical consequences and create instability. One of the most essential facts is that every night on the TV news now is like a nature hike through the Book of Revelation and the lossess have been mounting up. Although the causality requires a moment of discussion, more often than not,we’re used to thinking of linear cause and linear effect-- one cause, one effect. However, this is systemic causation.  
+气候引发的自然灾害会带来地缘政治的改变，制造不稳定因素。一个最基本的事实是，每晚的新闻就像揣着《启示录》在天地间行走一样，并且损失在与日俱增。虽然造成这些后果的原因是什么还存在争议，几乎没有例外，我们已经习惯了线性因果关系的思维方式，所谓的线性因果关系的思维方式就是一个原因造成一个后果。但造成这些后果的原因是系统性的。
+
+### 句型
+These AAA have geopolitical consequences and create instability. One of the most essential facts is that BBB and CCC. Although the causality requires a moment of discussion, more often than not, we’re used to thinking of linear cause and linear effect-- one cause, one effect. However, this is systemic causation.  
+AAA会带来地缘政治的改变，制造不稳定的因素。一个最基本的事实是，BBB，并且CCC。虽然造成这些都过的原因是什么还存在争议，几乎没有例外，我们已经习惯了现行因果关系的思维方式，所谓的线性因果关系的思维方式就是一个原因造成一个后果。但造成这些后果的原因是系统性的。
+
+### 炼句
+The territorial dispute have geopolitical consequences and create instability. One of the most essential facts is that it is inundated with uneasy emotion around the country and the disharmony between countries. Although the causality requires a momnet of discussion, more often than not, we're uised to hinking of linear cause and linear effect -- one cause, one effect. However, htis is systemic causaiton.
+### 知识点总结
+**be inundated with sth. / be saturated with sth.** 充斥着..(一般跟负面的东西)
