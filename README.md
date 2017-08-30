@@ -776,6 +776,6 @@ The territorial dispute have geopolitical consequences and create instability. O
 Without this knowledge we can AAA only the formal content of BBB, and we will fail to understand why CCC or the concepts that shaped it and caused it to adopt DDD distinctive forms.  
 没有这些知识，我们对于BBB的AAA（对于B的某种感情）就仅仅局限在形式上，而无法理解为什么会CCC，以及决定DDD采用某种特殊形式的内在理念。
 ### 炼句
-Without this knowledge we can understand only the formal content of music, and we will fail to understand why it was appeared or the concepts that shaped it and caused it to adopt its distinctive forms.
+Without this knowledge we can understand only the formal content of music, and we will fail to understand why it was appeared or the elements that composed it and caused it to adopt its distinctive forms.
 ### 知识点总结
 **Fate is responsible for shuffling, but the game of cards is our own** 命运负责洗牌，但是玩牌的是我们自己！
