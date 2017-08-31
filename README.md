@@ -779,3 +779,19 @@ Without this knowledge we can AAA only the formal content of BBB, and we will fa
 Without this knowledge we can understand only the formal content of music, and we will fail to understand why it was appeared or the elements that composed it and caused it to adopt its distinctive forms.
 ### 知识点总结
 **Fate is responsible for shuffling, but the game of cards is our own** 命运负责洗牌，但是玩牌的是我们自己！
+
+## Day 37
+### 例句
+> “The test of any democratic society,” he wrote in a Wall Street Journal column,” lies not in how well it can control expression but in whether it gives freedom of thought and expression the widest possible latitude, however disputable or irritating the results may sometimes be.”  
+“对于任何民主社会的考验，”他在《华尔街日报》专栏中写道，“并不在于它能多么有效的控制言论表达，而在于它是否赋予了（人民）最广泛的思想和表达自由，无论这可能引起多么富有争议或令人厌烦的结果。”
+
+### 句型
+The test of A lies not in B but in C, however disputable or irritating the result may sometimes be.  
+对A的考验不在于B，而是C。无论这可能引起多么富有争议或令人厌烦的结果。
+
+### 炼句
+The test of the character of a person lies not in how many beneficence he / she does but in how he / she does in a emergency, however disputable or irritating the results may sometimes be.
+### 知识点总结
+**irritating** 刺激的；气人的；使愤怒的
+
+**beneficence** 善行，慈善，捐款
