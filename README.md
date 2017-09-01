@@ -795,3 +795,21 @@ The test of the character of a person lies not in how many beneficence he / she 
 **irritating** 刺激的；气人的；使愤怒的
 
 **beneficence** 善行，慈善，捐款
+
+## Day 38
+### 例句
+> It is terrifying to reflect on how the virus’s advance was halted in the teeming city of Lagos thanks only to the heroism of a single doctor and because the place just happened to have the expertise needed to trace all of the first victim’s contracts.  
+细思恐极的是，当病毒在人声鼎沸的拉各斯肆虐时，多亏了一位医生的大无畏精神，疫情蔓延才得以终止，与此同时，拉各斯恰巧有技术能够追溯到所有与第一例病毒感染者接触的所有人。
+
+### 句型
+It is terrifying to reflect on how AAA was halted in BBB thanks only to CCC and because the place just happened to DDD.  
+细思恐极的是，当AAA在BBB得以终止，多亏了CCC，与此同时，这里恰巧有DDD。
+
+### 炼句
+It is terrifying to reflect on how the car was halted at the cliff edge thanks only to the force of friction and because the place just happened to have littery gravel and plants.
+### 知识点总结
+**reflect on** 仔细考虑，思考；反省；回想，回顾
+
+**halt** 停止；立定；踌躇，犹豫
+
+**littery** 杂乱的；碎屑的；零乱的
