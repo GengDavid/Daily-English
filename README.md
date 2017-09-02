@@ -813,3 +813,18 @@ It is terrifying to reflect on how the car was halted at the cliff edge thanks o
 **halt** 停止；立定；踌躇，犹豫
 
 **littery** 杂乱的；碎屑的；零乱的
+
+## Day 39
+### Sentences 1
+Homeschooled children are less subject to the stress and pressure ecperienced by conventional students who spend six, seven, or eight hours a day with their peers.
+#### Analysis
+**be subject to** 遭受，经受，受支配，从属于...
+#### 炼句
+Although we are often subject to many unfair treatment when we go abroad, we can do nothing but keep silence.
+
+#### Sentences 2
+Children tend to be more susceptible to advertising, especially when they view the advertising alone.
+#### Analysis
+**be susceptible to** 易受到来自...的(负面)影响
+#### 炼句
+One of the factors that we can not concerntrate on our work is we are susceptible to others.
