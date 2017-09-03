@@ -828,3 +828,11 @@ Children tend to be more susceptible to advertising, especially when they view t
 **be susceptible to** 易受到来自...的(负面)影响
 #### 炼句
 One of the factors that we can not concerntrate on our work is we are susceptible to others.
+
+## Day 40
+### Sentences 1
+There are educational video games that, instead of distracting students from their clases, actually make students more academically-motivated.
+#### Analysis
+**distract sb. from...** 分散某人的注意力
+#### 炼句
+Smartphone often distracts us from study mainly because they can make our brain feel easy and less focused on learning materials that may make our brain feel tired.
