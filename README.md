@@ -836,3 +836,18 @@ There are educational video games that, instead of distracting students from the
 **distract sb. from...** 分散某人的注意力
 #### 炼句
 Smartphone often distracts us from study mainly because they can make our brain feel easy and less focused on learning materials that may make our brain feel tired.
+### Sentences 2
+Today, the American parents who are confronted with a plethora of violent and pronographic TV shows are actually divided about this issue.
+#### Analysis
+**be confronted with ...** 面对（困难，危机等），用来替换face to
+
+**a plethora of** 过量的
+
+**pronographic** 色情的
+### 其他积累
+- **xxx is not a panacea for ...** xxx不是...的万能药
+- **down the drian** 白白浪费掉，付诸东流  
+  例：You're alraedy spent alt of monry fixing your car. Spending even more will just be money down the drian.
+- **It's wrong to equate AAA with BBB** 把AAA等同于BBB是错误的  
+  例：It's wrong to equate happiness with a bigger house or a bigger bank account.
+- **at the expense of** = at the cost of...
