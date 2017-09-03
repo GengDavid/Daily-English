@@ -1,5 +1,6 @@
 # Daily English
-In this repo, I'll collect and study many useful and awesome sentences everyday.
+In this repo, I'll collect and study many useful and awesome sentences everyday.  
+If you find something wrong, please point out by open an issue so that I can correct it:[smile].
 ## Day 0
 ### 例句：
 > 1. Even if one didn't konw from concrete examples (the 1936 Olympic Game, for instance) that international sporting contest leads to orgies of hatred, one could deduce it from general principle.
