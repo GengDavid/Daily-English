@@ -852,3 +852,14 @@ Today, the American parents who are confronted with a plethora of violent and pr
 - **It's wrong to equate AAA with BBB** 把AAA等同于BBB是错误的  
   例：It's wrong to equate happiness with a bigger house or a bigger bank account.
 - **at the expense of** = at the cost of...
+
+## Day 41
+### Sentences 1
+What characterizes almost all Hollywood pictures is their inner emptiness.  
+几乎所有好莱坞影片都空洞无内涵。
+#### Analysis
+**what characterizes almost all AAA is BBB** 几乎所有的AAA都BBB（用来概括AAA的特征）
+
+**emptiness** 空虚；无知
+#### 炼句
+What characterizes almost all pandas is there simple and honest appearence.
