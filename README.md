@@ -10,7 +10,7 @@ If you find something wrong, please point out by open an issue so that I can cor
 Even if one didn't konw from concrete examples (AAA, for instance) that BBB leads to CCC, one could deduce it from general principle.
 一个人即使不能从具体的案例（AAA）了解到BBB会导致CCC，也能从常理中推断出结论
 
-### 炼句：
+### Practice
 Even if one didn't know from concrete examples (the death of Ian Murdock, the funder of Debian operating system, for instance) that too little communication often leads to misunderstanding, one could deduce it from general principle.
 
 ### 知识点总结：
@@ -74,7 +74,7 @@ In the concrete: formal in reality or in practice
 The rapid expansion of AAA has many cases encroached on BBB, and led to a general recognition that CCC must not be carried at the cost of DDD. The EEE has attached greater importance to the problem and an increasing number of redundant FFF are being terminated.  
 AAA的迅速扩大在很多情况下侵占了BBB，使人们普遍认识到发展CCC（AAA相关）不能以牺牲DDD（BBB相关）为代价。EEE更加重视这个问题，越来越多的不必要的FFF被终止。
 
-### 炼句：
+### Practice
 The rapid expansion of factory has in many cases encroached on quiet living place, and led to a general recognition that the development of heavy indulstry must not be carried at the cost of the living standard of people. The government has attached greater importance to this problem and an increasing number of redundant unqualified factory are being terminated.
 
 ### 知识点总结
@@ -108,7 +108,7 @@ Terminate the employment of 解雇
 ### 句型
 The point we might still take from AAA is BBB, as XXX aptly put it, CCC:___________.  
 我们仍可以从AAA中得出结论，BBB总是——正如XXX恰如其分地指出的那样CCC(adj.):——(explanation)
-### 炼句
+### Practice
 The point we might still take from the commercial competition is that innovation, as Steve Jobs aptly put it, important: it distinguishes between a leader and a follower.
 ### 知识点总结
 **aptly**: adv. 适宜地；适当地  
@@ -125,7 +125,7 @@ The point we might still take from the commercial competition is that innovation
 AAA, although CCC, is fundamentally DDD in terms of EEE. To strike an appropriate balance between these two, what we need is BBB (FFF) so that GGG. So I can do nothing but choose BBB.  
 【用于比较AAA和BBB的优劣，最终确定选择BBB。】  
 (p.s. CCC是A的优点，FFF用来修饰B.)
-### 炼句
+### Practice
 Studying and working in the library, although quiet and comfortable, is fundamentally inconvenient in terms of group work. To strike an balance between these two, what we need is discussion room that where we can study and communicate with others so that we can cooperate easily. So I can do nothing but choose discussion room to finish group study.
 ### 知识点总结
 **fundamentally adv.** 根本地，从根本上；基础地
@@ -165,7 +165,7 @@ Studying and working in the library, although quiet and comfortable, is fundamen
 ### 句型
 Among countless factors which/that AAA, there are several conspicuous factors as follows.
 
-### 炼句
+### Practice
 Among countless factors that result in the greenhouse effect, there are several conspicuous factors as follows.
 
 ### 知识点总结
@@ -181,7 +181,7 @@ conspicuous adj. 显著的；显而易见的
 Nowadays, in addition to AAA, people are also endowed with BBB, which is an indicator of ...
 除了AAA，如今人们也拥有BBB，这正是...的体现
 
-### 炼句
+### Practice
 Nowadays, in addition to newspaper, people are also endowed with variety of ways to contact with the outer world, which is an indicator of development of technology.
 
 ### 知识点总结
@@ -206,7 +206,7 @@ pursuing material enjoyment 追求物质享受
 ### 句型
 AAA integrate / incorporate BBB into CCC
 
-### 炼句
+### Practice
 This is an effective way that incorporate pertinent practice into the theoretical study.
 
 ### 知识点总结
@@ -232,7 +232,7 @@ This is an effective way that incorporate pertinent practice into the theoretica
 AAA has expanded without any idea of the true nature of BBB, and without giving a consideration to the effects produced on the CCC (与AAA、BBB都相关) and on DDD (比CCC更深远的影响) by the EEE imposed by the FFF.  
 AAA发展起来了，却根本没有想到BBB的本质。FFF把一种EEE的方式强加给CCC，却不顾及这种EEE方式给CCC(与AAA、BBB都相关）及其DDD(比CCC更深远的影响) 带来的影响。
 
-### 炼句
+### Practice
 Local agriculture has expanded without any idea of the true nature of the relationship between the crop and the land, and without giving a consideration to the effects produced on the soil and on the local ecological environment by the production pattern imposed by the farmers.
 
 ### 知识点总结
@@ -256,7 +256,7 @@ In this day, I accumulated several useful sentences as follow.
 #### Analyzation
 - "explore every avenue toward ..." ： “探索完成...的所有途径”
 
-#### 炼句
+#### Practice
 Every competitors are exploring every avenue toward the first prize in this competition.  
 ### Sentence 2
 > They worked in Women's Shelter to protect the battered and abused women, to awaken the conscience of society and to arouse compassion for the weak.
@@ -265,7 +265,7 @@ Every competitors are exploring every avenue toward the first prize in this comp
 - **awaken the conscience of**：唤醒...(常为society)的良知或责任感
 - **arouse compassion for**: 唤起对...的同情，注意介词是for  
 
-#### 炼句
+#### Practice
 The often run some charity events to awaken the conscience of society.
 ### Sentence 3
 > 1. Far from being amateurs, these kids know the game rules inside out.
@@ -277,7 +277,7 @@ The often run some charity events to awaken the conscience of society.
 - **fail glaringly**: 惨重的失败
 - **..., ironically,**: ...有讽刺意味的是...
 
-#### 炼句
+#### Practice
 Far from being hardworking, he lose himself in  playing computer games.
 
 ## Day 8
@@ -289,7 +289,7 @@ Far from being hardworking, he lose himself in  playing computer games.
 AAA is therefore a policy of the first importance to BBB. But this is not a business that can be undertaken in a day or swiftly improvised by a mere command of the will.  
 所以，对于BBB来说，AAA是最重要的。但是这不是一日之功，也不是单凭意志就一蹴而就的事情。
 
-### 炼句
+### Practice
 The accumulation of vocabulary is therefore a policy of the first important to learning English. But this is not a business that can be undertaken in a day or swiftly improvised by a mere command of the will.
 
 ### 知识点总结
@@ -306,7 +306,7 @@ The accumulation of vocabulary is therefore a policy of the first important to l
 AAA, in other words, has not always been XXX that some of its fans think. It is unsurprising that the rise of BBB would unsettle a system that had barely settled to begin with. Fortunately, most of the DDD is confined to CCC.  
 AAA，换句话说，并不总像它的支持者认为的那样是XXX，BBB的兴起会扰乱了本就不稳固的体系就不足为奇了。幸运的是，大多数的DDD仅限于CCC。
 
-### 炼句
+### Practice
 Printing books, in other words, has not always been irreplaceable that some scholars think. It is unsurprising that the rise of e-book would unsettle a system that had barely settled to begin with. Fortunately, most of the e-reading is confined to fiction, news, and pre-release version of publications.
 
 ### 知识点总结
@@ -324,7 +324,7 @@ Printing books, in other words, has not always been irreplaceable that some scho
 ### 句型
 The AAA becomes yearly more sophisticated is BBB(形容AAA)for the CCC, a brighter promise for DDD who has sworn to get away from it all.  
 AAA一年比一年讲究，这对CCC是件BBB的事情，而对发誓用AAA摆脱烦恼的DDD来说，却带来了更光明的前景。
-### 炼句
+### Practice
 The university becomes yearly more sophisticated is something to worry about for the educationalist, a brighter promise for students who has sworn to get away from it all.
 ### 知识点总结
 **paradox**   悖论，反论；似非而是的论点；自相矛盾的人或事
@@ -343,7 +343,7 @@ The university becomes yearly more sophisticated is something to worry about for
 #### Analyzation
 - **make it a point to** 确保做某事（相当于make sure）
 
-#### 炼句
+#### Practice
 It is possible to achieve to goal if you make it a point to stick to your plan.
 ### Sentence 2
 > Boston, or more specifically, Faneuil Hall, is sometimes referred to as the Cradle of Liberty.
@@ -353,7 +353,7 @@ It is possible to achieve to goal if you make it a point to stick to your plan.
 - **...is the cradle of...** ...是...的摇篮（发源地）
 - **be referred to as**  被称为...
 
-#### 炼句
+#### Practice
 Terrene, or more specifically, Africa, is definitely confirmed as the cradle of human civilization.
 
 ## Day 12
@@ -371,7 +371,7 @@ Terrene, or more specifically, Africa, is definitely confirmed as the cradle of 
 ### Analyzation
 - **rise to the occasion** 可以理解为 “迎难而上” 或 “应对自如”
 
-### 炼句
+### Practice
 With the help of my parents and friends, I regained confidence and rose to the occasion.
 
 ### Sentence 3
@@ -380,7 +380,7 @@ With the help of my parents and friends, I regained confidence and rose to the o
 ### Analyzation
 - **labor of love**  心甘情愿去做的事
 
-### 炼句
+### Practice
 He teach these children as a volunteer, and he regards it as a labor of love.
 
 ## Day 13
@@ -391,7 +391,7 @@ He teach these children as a volunteer, and he regards it as a labor of love.
 ### 句型
 AAA in itself is a great good, all AAA, but its consequences may be such that the sensible person eschews certain varieties of it. Nor need AAA be CCC and DDD. 【关于“适可而止”】
 
-### 炼句
+### Practice
 Making money itself is a great good, all of it, but its consequences may be such that the sensible person eschews certain ways of it. Nor need the way of making money be immoral and illegal.
 ### 知识点总结
 **eschew** [ɪsˈtʃuː] vt. 避免；避开；远避  
@@ -410,7 +410,7 @@ Making money itself is a great good, all of it, but its consequences may be such
 ### 句型
 “A” is one of those irritating words that has been hijacked by BBB. It used to mean CCC, but in modern world/business it has become a synonym for DDD and especially the ability to EEE.
 
-### 炼句
+### Practice
 "Wealth" is one of those irritating words that has been hijacked by people from upper class. It used to mean having more money, but in modern world it has become a synonym for status (both political and financial), especially the ability to get everything he/she want.
 
 ### 知识点总结
@@ -432,7 +432,7 @@ Making money itself is a great good, all of it, but its consequences may be such
 ### 句型
 Partnerships between A and B are redefining C, and they will be key to helping B meet the growing global demand for D. Increasingly, A are working closely with B to reach more E with F—something they would not be able to do on their own.
 
-### 炼句
+### Practice
 Partnerships between Internet companies and physical stores are redefining daily marketing mode, and they will be key to helping physical stores meet the growing global demand for market in the digital age. Increasingly, physical stores are working closely with Internet companies to reach more profit with efficient Internet—something they would not be able to do on their own.
 ### 知识点总结
 今天积累一个很有用的短语:  
@@ -446,7 +446,7 @@ Partnerships between Internet companies and physical stores are redefining daily
 ### 句型
 As new technologies have transformed many aspects of daily life, new questions have arisen. AA is changing around us at a dizzying pace; BB want guidance, and CC want to answer their questions with helpful and scientifically valid advice. DD is probably best known for two recommendations: to do EE, and to do FF.  
 【可以用来解读新技术带来的变化以及矛盾，并陈列各方意见进行比对分析。】
-### 炼句
+### Practice
 As new technologies have transformed many aspects of daily life, new questions have arisen. Artificial intelligence is changing around us at a dizzying pace; Companies want to make a big profit throw it, and researchers can help them with useful and scientifically valid advice. Specialist is probably best known for two recommendations: to integrate AI into our daily life, and to benefit as many people as possible.
 ### 知识点总结
 **at a dizzying pace** 以惊人的速度
@@ -459,7 +459,7 @@ As new technologies have transformed many aspects of daily life, new questions h
 ### 句型
 It seems, then, that AAA has the opposite effect on people from BBB. AAA makes CCC more DDD than normal, rather than less so. Moreover, the more EEE they are, the more FFF their CCC becomes.
 
-### 炼句
+### Practice
 It seems, then, that being friendly to others has the opposite effect on people from being selfish. Being friendly makes the relationship between people more harmonious than normal, rather than less so. Moreover, the more friendly they are, the more reliable their relationship becomes.
 ### 知识点总结
 **amity**  友好关系
@@ -471,7 +471,7 @@ It seems, then, that being friendly to others has the opposite effect on people 
 #### Analyzation
 **a spasm of** 一阵
 **catch hold of** 抓住，握住
-#### 炼句
+#### Practice
 In some cases, whether you can succeed depend on catching hold of the indeal that apear just a moment.
 
 ## Day 19
@@ -480,7 +480,7 @@ In some cases, whether you can succeed depend on catching hold of the indeal tha
 
 ### Analyzation
 一个句子一个主语看起开很无味，巧妙链接主语不同的句子
-### 炼句
+### Practice
 When they saw the luxury car the first time, they felt so exiting, for the chance given by merchant that allowed them to drive it for a day.
 ### 知识点总结
 **feel obliged to** 觉得有义务去做，觉得应该去做...
@@ -494,7 +494,7 @@ When they saw the luxury car the first time, they felt so exiting, for the chanc
 Coining a phrase is one thing, living up to it is another. AAA was long on point-scoring and short on detailed solutions. BBB boasts of its remedies(increasing the CCC and DDD, for example), but most are more than offset by EEE.  
 喊口号是一回事，而能否实现却是另外一回事。AAA擅长博取分数，但是却很少提出详细的解决方法。BBB在一味吹嘘它的补救策略，但多数却由于缺乏可行性而难以推行。
 
-### 炼句
+### Practice
 Coining a phrase is one thing, living up to it is another. The school's recent commitment on the improvement of teaching quality was long on point-scoring and short on detailed solution. The headmaster boasts of his remedies(increasing the amont of facilities and enhance the classroom discipline, for example), but most are more than offset by the increasement of the wherewithal.
 ### 知识点总结
 **Coin a phrase**  常言道；编造一句话
@@ -521,7 +521,7 @@ Coining a phrase is one thing, living up to it is another. The school's recent c
 To equate AAA with BBB and CCC(视情况而定，可以没有and部分)is to misunderstand them/it.
 (动词可以换，可正面可反面，看整体内容怎么写)
 
-### 炼句
+### Practice
 To equate English learning with recitation is to misunderstand it.
 ### 知识点总结
 **equate xxx with xxx** 把...等同于...；给...贴上...标签
@@ -535,7 +535,7 @@ To equate English learning with recitation is to misunderstand it.
 
 ### 句型
 Nothing has received more praise and abuse than (A). Although we may pride of (B), we are no longer free to (C), for (D与A有关)。
-### 炼句
+### Practice
 Nothing has received more praise and abuse than air conditioner, although we may pride of the cool it bring to us, we are no longer free to enjoy the nature.
 ### 知识点总结
 **Nothing has received more praise and abuse than...** 没有什么比...更毁誉参半的了，用于议论具有两面性的事物
@@ -550,7 +550,7 @@ Nothing has received more praise and abuse than air conditioner, although we may
 ### 句型
 When we think about the opposite of A, many times, we think it is B. But the fact is that, B is a ... thing. The opposite of A is “C”.  
 想到A的反义词时，很多次我们想到的是B。不过实际上，B是XXX的事情。其实A的反义词是“C”。
-### 炼句
+### Practice
 When we think about the opposite of talent, many times, we think it is stupid. But the fact is that, stupid is a subjective word. The opposite of talent is "inefficient".
 ### 知识点总结
 积累一个表达东西诱人的句子：  
@@ -565,7 +565,7 @@ When we think about the opposite of talent, many times, we think it is stupid. B
 ### 句型
 While A gives B access to C than before, paradoxically, B are becoming D.  
 当A使B获得更多的C时，矛盾的是，B变得更D。
-### 炼句
+### Practice
 While modern technology gives us access to more nature than before, paradoxically, we are becoming more greedy and more incontinent than before.
 ### 知识点总结
 **paradoxically** 自相矛盾地；似非而是地；反常地  
@@ -584,7 +584,7 @@ While modern technology gives us access to more nature than before, paradoxicall
 ### 句型
 Although AAA may be the most powerful impulses to BBB, there are others. BBB is one of them.  
 一般用于开头陈述观点的时候
-### 炼句
+### Practice
 Although wealth and status may be the most powerful impulses to encourage a man to endeavor, there are others. The thirst for knowledge is one of them.
 ### 知识点总结
 **thirst for knowledge** 求知欲
@@ -597,7 +597,7 @@ Although wealth and status may be the most powerful impulses to encourage a man 
 ### 句型
 With the advent of ... we have the promise of ...  
 用于陈述主体的现状与优点
-### 炼句
+### Practice
 With the advent of computer, we have the promise of much more convenient way to work and study, and a powerful tool for communication.
 ### 知识点总结
 **with the advent of** 随着…的出现
@@ -607,7 +607,7 @@ With the advent of computer, we have the promise of much more convenient way to 
 
 ### 句型
 ...have come to pervade every aspect of our lives, and, as a result,...
-### 炼句
+### Practice
 Mobile phone have come to pervade every aspect of our lives, and as a result, we can do nearly everything with our smartphone.
 ### 知识点总结
 **pervade** 遍及；弥漫；渗透；充满
@@ -620,7 +620,7 @@ Mobile phone have come to pervade every aspect of our lives, and as a result, we
 ### 句型
 With the reference to the skill of AAA, AAA’(AAA的同义词) is a most direct indication of one’s outstanding talent, thus paving the way toward career success. We could trace evidence to BBB(人名), the CCC(定从). His/Her unparalleled AAA skills appeal to DDD. His/Her fearless courage and ability to EEE indicated that he/ she is able to FFF.  
 在AAA方面，AAA’是一个人杰出才华的最直接的体现，因此可为其事业成功铺平道路。我们可以从BBB身上获得印证。他/她那举世无双的AAA吸引住了DDD，他/她无所畏惧的勇气以及EEE方面的能力说明他/她能FFF。
-### 炼句
+### Practice
 With the reference to the skill of programming, the ability of sharing is a most direct indication of one's outstanding talent, thus paving the way toward career success. We could trace evidence to Linus Torvalds, the funder of Linux operation system. His unparalleled programming skills and his spirit of sharing appeal to millions of programmer to join his work. His fearless courage and ability to breaking the routine indicated that he is able to shake the world of programming.
 ### 知识点总结
 **paving the way toward career success** 为成功铺平道路
@@ -640,7 +640,7 @@ vt. 使有声望
 ### 句型
 But even if the AAA walks away from the BBB, the growing number of CCC and DDD seeking the EEE’s help with FFF increases the likelihood that the EEE will have to provide it.  
 但是即使AAA回避BBB，越来越多的CCC和DDD会寻求EEE的帮助去解决问题（FFF），则会提高EEE解决问题的效率。
-### 炼句
+### Practice
 But even if some merchants walk away from the protection of intellectual property, the growing number of intelligent and skilled workers and authorized shops seeking the legal aid with the tort problem increases the likelihood that the supervision department will have to take effective measures against it.
 ### 知识点总结
 **walk away from** 回避；离开
@@ -657,7 +657,7 @@ But even if some merchants walk away from the protection of intellectual propert
 ### 句型
 But AAA had deduced that BBB were no longer fit for CCC, and that their DDD had no EEE, but depended on FFF.
 
-### 炼句
+### Practice
 But many people had deduced that traditional written messages were no longer fit for modern communication, and that their transformation had no flexibility, but depended on troublesome delivery.
 ### 知识点总结
 **deduce** 推论，推断；演绎出
@@ -672,7 +672,7 @@ But many people had deduced that traditional written messages were no longer fit
 ### 句型
 From what has been discussed above, we may safely draw the conclusion that, although AAA indeed enjoy many obvious advantages, its disadvantages shouldn’t be ignored and far outweigh its advantages. It is absurd to force BBB to CCC.  
 通过以上讨论，我们可以得出结论：尽管AAA的确有很多优点，但它的缺点不可忽视，且远大于它的优点。因此，让BBB做CCC是不明智的。
-### 炼句
+### Practice
 From what has been discussed above, we may safely draw the conclusion that, although headphone indeed enjoy many obvious advantages, its disadvantages shouldn't be ignored and far outweigh its advantages. It is absurd to use headphones in every condition.
 ### 知识点总结
 **enjoy many advantages** 享有很多优势，注意搭配
@@ -685,7 +685,7 @@ From what has been discussed above, we may safely draw the conclusion that, alth
 ### 句型
 The best way to overcome AAA —— so at least it seems to me ——is to make BBB more CCC and DDD, until bit by bit the walls of the EEE recede, and your life becomes increasing merged in the universal life.  
 解决AAA的最好办法——至少在我看来是这样——就是逐渐使你的BBB（BBB与克服AAA有关）更CCC和DDD，直到EEE的围墙一点点倒塌下来，自己的生活慢慢地和整个宇宙的生活融合在一起。
-### 炼句
+### Practice
 The best way to overcome laziness, so at least it seems to me, is to make the work more interesting and feasible, until bit by bit the walls of the tediousness recede, and my work becomes increasingly efficient.
 
 ### 知识点总结
@@ -699,13 +699,13 @@ The best way to overcome laziness, so at least it seems to me, is to make the wo
 Probably few of us have ever stopped to think about how our present-day concept of time and ways of measuring it came about.
 #### Analysis
 **few of us have ever stopped to think about**  很少有人会去考虑...
-#### 炼句
+#### Practice
 Few of us have ever stopeed to think about why everything go straight down towards the ground.
 ### Sentence 2
 Some scientists believe that human activity has vary little, if any, impact on the recent warming trend on Earth.
 ### Analysis
 **vary little, if any, ...**  只有很少的xxx，如果有的话
-#### 炼句
+#### Practice
 According to many student in my college, this new police have very little, if any, positive influence on their life.
 ### 知识点总结与积累
 **it is paramount to** = it is the most important to
@@ -726,7 +726,7 @@ clash with ... / be incormpatible with ...
 In America, those who often move long distances are generally the kind of people who play the major role in holding the community together, in part / partly because they are more confident and have better career opportunities.
 #### Analysis
 **in part because ... / partly because** 部分是因为...
-#### 炼句
+#### Practice
 In China, those who often do physical works are generally the kind of people who live in the bottom of society, partly because of their limited knowledge and their low price labor force.
 ### Sentence 2
 Many American citizens frowned on the astronomical budget deficit of their government.
@@ -736,7 +736,7 @@ Many American citizens frowned on the astronomical budget deficit of their gover
 Disasters will ensue if they remain unready like this.
 #### Analysis
 **if..., ... will ensue** 如果...， 某种结果将跟随而来
-#### 炼句
+#### Practice
 If the unemployment rate still hovers at high levels, economic crisis will ensue.
 
 ## Day 34
@@ -747,7 +747,7 @@ If the unemployment rate still hovers at high levels, economic crisis will ensue
 ### 句型
 AAA has nothing to do with BBB, or CCC, or DDD, or...--criteria that are increasingly important at EEE. Most of FFF who/which(与AAA相同意思的从句)+HHH(与BCD意思相对)
 
-### 炼句
+### Practice
 Success has nothing to do with the number of award, or the popularity of a person, or doing a great job, or owning a huge amount of money -- riteria that are increasinglyl important in the society of a whole. Most of the people who pursue the success are very mammonish or utilitarian.
 ### 知识点总结
 **alumnus** 校友
@@ -763,7 +763,7 @@ Success has nothing to do with the number of award, or the popularity of a perso
 These AAA have geopolitical consequences and create instability. One of the most essential facts is that BBB and CCC. Although the causality requires a moment of discussion, more often than not, we’re used to thinking of linear cause and linear effect-- one cause, one effect. However, this is systemic causation.  
 AAA会带来地缘政治的改变，制造不稳定的因素。一个最基本的事实是，BBB，并且CCC。虽然造成这些都过的原因是什么还存在争议，几乎没有例外，我们已经习惯了现行因果关系的思维方式，所谓的线性因果关系的思维方式就是一个原因造成一个后果。但造成这些后果的原因是系统性的。
 
-### 炼句
+### Practice
 The territorial dispute have geopolitical consequences and create instability. One of the most essential facts is that it is inundated with uneasy emotion around the country and the disharmony between countries. Although the causality requires a momnet of discussion, more often than not, we're uised to hinking of linear cause and linear effect -- one cause, one effect. However, htis is systemic causaiton.
 ### 知识点总结
 **be inundated with sth. / be saturated with sth.** 充斥着..(一般跟负面的东西)
@@ -776,7 +776,7 @@ The territorial dispute have geopolitical consequences and create instability. O
 ### 句型
 Without this knowledge we can AAA only the formal content of BBB, and we will fail to understand why CCC or the concepts that shaped it and caused it to adopt DDD distinctive forms.  
 没有这些知识，我们对于BBB的AAA（对于B的某种感情）就仅仅局限在形式上，而无法理解为什么会CCC，以及决定DDD采用某种特殊形式的内在理念。
-### 炼句
+### Practice
 Without this knowledge we can understand only the formal content of music, and we will fail to understand why it was appeared or the elements that composed it and caused it to adopt its distinctive forms.
 ### 知识点总结
 **Fate is responsible for shuffling, but the game of cards is our own** 命运负责洗牌，但是玩牌的是我们自己！
@@ -790,7 +790,7 @@ Without this knowledge we can understand only the formal content of music, and w
 The test of A lies not in B but in C, however disputable or irritating the result may sometimes be.  
 对A的考验不在于B，而是C。无论这可能引起多么富有争议或令人厌烦的结果。
 
-### 炼句
+### Practice
 The test of the character of a person lies not in how many beneficence he / she does but in how he / she does in a emergency, however disputable or irritating the results may sometimes be.
 ### 知识点总结
 **irritating** 刺激的；气人的；使愤怒的
@@ -806,7 +806,7 @@ The test of the character of a person lies not in how many beneficence he / she 
 It is terrifying to reflect on how AAA was halted in BBB thanks only to CCC and because the place just happened to DDD.  
 细思恐极的是，当AAA在BBB得以终止，多亏了CCC，与此同时，这里恰巧有DDD。
 
-### 炼句
+### Practice
 It is terrifying to reflect on how the car was halted at the cliff edge thanks only to the force of friction and because the place just happened to have littery gravel and plants.
 ### 知识点总结
 **reflect on** 仔细考虑，思考；反省；回想，回顾
@@ -820,14 +820,14 @@ It is terrifying to reflect on how the car was halted at the cliff edge thanks o
 Homeschooled children are less subject to the stress and pressure ecperienced by conventional students who spend six, seven, or eight hours a day with their peers.
 #### Analysis
 **be subject to** 遭受，经受，受支配，从属于...
-#### 炼句
+#### Practice
 Although we are often subject to many unfair treatment when we go abroad, we can do nothing but keep silence.
 
 #### Sentences 2
 Children tend to be more susceptible to advertising, especially when they view the advertising alone.
 #### Analysis
 **be susceptible to** 易受到来自...的(负面)影响
-#### 炼句
+#### Practice
 One of the factors that we can not concerntrate on our work is we are susceptible to others.
 
 ## Day 40
@@ -835,7 +835,7 @@ One of the factors that we can not concerntrate on our work is we are susceptibl
 There are educational video games that, instead of distracting students from their clases, actually make students more academically-motivated.
 #### Analysis
 **distract sb. from...** 分散某人的注意力
-#### 炼句
+#### Practice
 Smartphone often distracts us from study mainly because they can make our brain feel easy and less focused on learning materials that may make our brain feel tired.
 ### Sentences 2
 Today, the American parents who are confronted with a plethora of violent and pronographic TV shows are actually divided about this issue.
@@ -861,5 +861,5 @@ What characterizes almost all Hollywood pictures is their inner emptiness.
 **what characterizes almost all AAA is BBB** 几乎所有的AAA都BBB（用来概括AAA的特征）
 
 **emptiness** 空虚；无知
-#### 炼句
+#### Practice
 What characterizes almost all pandas is there simple and honest appearence.
