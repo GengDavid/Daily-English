@@ -863,3 +863,14 @@ What characterizes almost all Hollywood pictures is their inner emptiness.
 **emptiness** 空虚；无知
 #### Practice
 What characterizes almost all pandas is there simple and honest appearence.
+
+## Day 42
+### Sentences 1
+Long-distance flights are a classic trade-off. On the one hand, they make things a lot easier for international travelers and multinational companies. On the other hand, an great deal of detrimental influence has been exerted upon the environment by the jumbo jets（巨型飞机）.
+### Analysis
+**trade-off** 指为了获得好处而必须付出代价的处境  
+同义短语有： It cuts both ways; a double-edged sword
+
+**exert detrimental influence upon / have adverse effect on** 对...有负面影响
+### Practice
+Running at night is a double-edged sword, on the one hand, it can release the pressure from the whole-day work. On the other hand, it also exert detrimental influence upon public security at night.
