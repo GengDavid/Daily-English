@@ -867,10 +867,31 @@ What characterizes almost all pandas is there simple and honest appearence.
 ## Day 42
 ### Sentences 1
 Long-distance flights are a classic trade-off. On the one hand, they make things a lot easier for international travelers and multinational companies. On the other hand, an great deal of detrimental influence has been exerted upon the environment by the jumbo jets（巨型飞机）.
-### Analysis
+#### Analysis
 **trade-off** 指为了获得好处而必须付出代价的处境  
 同义短语有： It cuts both ways; a double-edged sword
 
 **exert detrimental influence upon / have adverse effect on** 对...有负面影响
-### Practice
+#### Practice
 Running at night is a double-edged sword, on the one hand, it can release the pressure from the whole-day work. On the other hand, it also exert detrimental influence upon public security at night.
+
+## Day 43
+### Sentences 1
+Some medical professionals assume that the elderly may be vulnerable to the side effects of H1N1 vaccination.
+#### Analysis
+**be likely to fall prey to / be vulnerable to...** 容易成为...的受害者
+#### Practice
+Children that under three years old are much more likely to fall prey to violent computer games.
+### Sentences 2
+The spokesman should be condemned rather than condoned for what were, essentially, racist remarks.
+#### Analysis
+**AAA should be condemned rather than condoned**  AAA应该被谴责而不是被宽恕
+
+**condoned**  
+同样有 **宽恕** 意思的词： depurge, tolerate, pardon, forgive
+#### Practice
+These high pollutional factories should be condemned rather than condoned for what they did to our environment, especially for the air pollution.
+### 其他积累
+**spin out of control** 失去控制  
+例： The demand for economic growth is helping make the American consumerism spin out of control.  
+同义短语： lose track of...   
