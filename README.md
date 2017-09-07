@@ -895,3 +895,14 @@ These high pollutional factories should be condemned rather than condoned for wh
 **spin out of control** 失去控制  
 例： The demand for economic growth is helping make the American consumerism spin out of control.  
 同义短语： lose track of...   
+
+## Day 44
+### Key words
+1. asset  
+asset can often use as a singular noun with the meaning of:  
+> something or someone that is useful because they help you succeed or deal with problems  
+
+Examples: 
+- A sense of humor is a great asset in this business.
+- I think Rachel would be an asset to the department.  
+  Note that **be an asset to somebody / something** is an common usage. 
