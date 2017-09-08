@@ -906,3 +906,27 @@ Examples:
 - A sense of humor is a great asset in this business.
 - I think Rachel would be an asset to the department.  
   Note that **be an asset to somebody / something** is an common usage. 
+
+## Day 45
+### Sentences 1
+What's the good of having more advanced public transit if it's increasingly difficult to transport industrial and agricultural products?
+#### Analysis
+**what's the good of ...?** ...又有何好处呢？
+#### Practice
+What's the good of increasing the profit if the pollution to the environment are more and more serious.
+
+### Other accumulation
+**psychological strian**  （持续的）心理压力
+
+**stifle creativity**  扼杀创造力
+
+**are afflicted by**  遭受
+
+**be oblivious to** 对...完全无视
+
+**cause grave concerns** 引起严重关注  
+例： The H1N1 epidimic has caused grave concerns and the elderly, pregnant women, children and health care workers hyave been encouraged to get vaccinated against the virus.  
+同义短语: Concerns have arisen about...
+
+**AAA spell disaster / trouble for ...** AAA意味着灾难 / 麻烦  
+例：The new policy could spell disaster for many businesses in this country.
