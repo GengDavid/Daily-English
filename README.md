@@ -930,3 +930,19 @@ What's the good of increasing the profit if the pollution to the environment are
 
 **AAA spell disaster / trouble for ...** AAA意味着灾难 / 麻烦  
 例：The new policy could spell disaster for many businesses in this country.
+
+## Day 46
+### Sentences 1
+Many Americans believe that they have been poorly-informed, uninformed or misinformed about the war in Iraq.
+#### Analysis
+**poorly-informed, uninformed or misinformed about...**   关于某事了解很少，完全不了解或错误了解（用于媒体类话题）
+#### Practice
+According to the newspaper, many people are poorly-informed, uniformed or misinformed about the harm of radiation.
+### Sentences 2
+New technology keeps rendering old computers obsolete.
+#### Analysis
+**obsolete** 过时的，没人用了的
+
+**A has rendered B ... ** A让B变成某种状态
+#### Practice
+Artificial intelligence has rendered more and more people unemployed.
