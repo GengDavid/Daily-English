@@ -943,6 +943,6 @@ New technology keeps rendering old computers obsolete.
 #### Analysis
 **obsolete** 过时的，没人用了的
 
-**A has rendered B ... ** A让B变成某种状态
+**A has rendered B ...** A让B变成某种状态
 #### Practice
 Artificial intelligence has rendered more and more people unemployed.
