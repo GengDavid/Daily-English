@@ -946,3 +946,6 @@ New technology keeps rendering old computers obsolete.
 **A has rendered B ...** A让B变成某种状态
 #### Practice
 Artificial intelligence has rendered more and more people unemployed.
+
+## Day 47
+### Sentences 1
