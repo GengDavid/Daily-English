@@ -949,3 +949,8 @@ Artificial intelligence has rendered more and more people unemployed.
 
 ## Day 47
 ### Sentences 1
+The comic strip is fun for old and young alike.
+#### Analysis
+**old and young alike** 年长的和年轻人都... (old 前不加the)，类似的还有friends and family alike, teachers and students alike
+#### Practice
+This kind of food is designed for old and young alike.
