@@ -954,3 +954,19 @@ The comic strip is fun for old and young alike.
 **old and young alike** 年长的和年轻人都... (old 前不加the)，类似的还有friends and family alike, teachers and students alike
 #### Practice
 This kind of food is designed for old and young alike.
+
+## Day 48
+### Sentences 1
+Outsourcing is a fact of life now in America and we can't escape it.
+#### Analysis
+**AAA is a fact of life** AAA是必须面对的人生  
+注意与 ... is a daily occurrence（...某事每天都在发生） 的对比  
+例：Even in a world where change is a daily occurrence, it's not easy to push forward reforms about healthcare and environmental policies.
+**outsourcing**  外包
+
+### Sentences 2
+Success of such efforts hinges on contribution from the authorities.
+#### Analysis
+**hinge on** 取决于
+#### Practice
+The fluency of your oral English higes on how often you practice it.
