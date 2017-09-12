@@ -970,3 +970,6 @@ Success of such efforts hinges on contribution from the authorities.
 **hinge on** 取决于
 #### Practice
 The fluency of your oral English higes on how often you practice it.
+
+## Day 49
+### Sentences 1
