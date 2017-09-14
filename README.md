@@ -983,4 +983,9 @@ This judgement is not restricted to students who buy things on the Internet, but
 **more than anything** 最重要的是（用于句首）
 
 ## Day 50
-
+### Sentences 1
+Americans continue to think in terms of the "mainstream" and the "other". If we take a moment to think historically, we can see that our civilization is actually composed of many strands from diverse backgrounds.
+#### Analysis
+**think in terms of** 以某种思维方式思考
+#### Practice
+If we can think in terms of dialectic, we can solve this problem more easyily.
