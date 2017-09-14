@@ -973,3 +973,11 @@ The fluency of your oral English higes on how often you practice it.
 
 ## Day 49
 ### Sentences 1
+This trend is not restricted to wealthy students who have the money to do this, but is also evident among poorer students.
+#### Analysis
+**this (trend) is not restricted to...**  这个（趋势）不仅局限于...
+#### Practice
+This judgement is not restricted to students who buy things on the Internet, but is also coincident with students buy things offline.
+### Other accumulation
+**more than anything** 最重要的是（用于句首）
+
