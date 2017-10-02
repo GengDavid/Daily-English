@@ -989,3 +989,9 @@ Americans continue to think in terms of the "mainstream" and the "other". If we 
 **think in terms of** 以某种思维方式思考
 #### Practice
 If we can think in terms of dialectic, we can solve this problem more easyily.
+
+## Day 51
+### Sentences 1
+what I wouldn't give for sth  
+used to say that you want something very much  
+例：What I wouldn't give for a cold drink!
