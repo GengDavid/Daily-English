@@ -1004,4 +1004,4 @@ In this sentence, equip is used in a more figurative sense.
 在描述拥有某种能力的时候，可以使用equip来替代have  
 例： She was never equipped to be a dancer.
 ### 炼句
-Get additional study in the university can equip employees with abundant professional knowledge so that they can work for the company more efficiently.
+Getting additional study in the university can equip employees with abundant professional knowledge so that they can work for the company more efficiently.
