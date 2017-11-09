@@ -995,3 +995,13 @@ If we can think in terms of dialectic, we can solve this problem more easyily.
 what I wouldn't give for sth  
 used to say that you want something very much  
 例：What I wouldn't give for a cold drink!
+
+## Day 52
+### Sentences 1
+On a really bad day, it might feel like people are not equipped to deal with each other politely.  
+### Analysis
+In this sentence, equip is used in a more figurative sense.  
+在描述拥有某种能力的时候，可以使用equip来替代have  
+例： She was never equipped to be a dancer.
+### 炼句
+Get additional study in the university can equip employees with abundant professional knowledge so that they can work for the company more efficiently.
