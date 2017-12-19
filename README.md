@@ -1003,5 +1003,62 @@ On a really bad day, it might feel like people are not equipped to deal with eac
 In this sentence, equip is used in a more figurative sense.  
 在描述拥有某种能力的时候，可以使用equip来替代have  
 例： She was never equipped to be a dancer.
-### 炼句
+### Practice
 Getting additional study in the university can equip employees with abundant professional knowledge so that they can work for the company more efficiently.
+
+## Day 53
+(Oh, long time no see)  
+
+### Sentences 1
+1. Little did I know that I would actually wind up bing on the staff.  
+  我完全没有想到自己竟会在这里供职.
+2. I'd appreciate it if you have room for me on the staff.  
+  如果还有职位可以给我提供的话我将不胜感激.
+
+### Analysis
+(be) on the stff 正式职员
+
+### Other accumulation
+#### identify with  
+使等同于；把…看做一致：   
+例： Never identify opinions with facts.  
+千万莫把意见和事实等同起来。
+
+(使)与…有关；(使)支持；认为与…有关： He does not wish to be identified with the reform party.  
+他不想与改革派有任何关联。  
+She is identified with our plans.  
+她支持我们的计划。
+
+同情；跟…产生共鸣；与…分享： Voters identify with the young candidate.  
+选民们很同情那位年轻的候选人。  
+I believe that most readers will identify with the author.  
+我相信大多数读者会与作者产生共鸣
+
+
+entitle sb to sth  
+是某人有权利得到某物
+
+and so forth  
+等等，和and so on差不多
+
+I guess I can swing that  
+口语用法 我想我能搞定 或 这事我能办妥 或 我想我能付得起这个钱
+
+steer  
+more detail on [here](https://dictionary.cambridge.org/zhs/词典/英语/steer)
+
+take a detour from   
+绕道而行；偏题
+
+
+jut out  
+伸出  
+
+The pier juts out into the sea.  
+码头伸向大海
+
+show off  
+炫耀 卖弄
+
+and the like  
+等等 诸如此类
