@@ -1062,3 +1062,26 @@ show off
 
 and the like  
 等等 诸如此类
+
+## Day 54
+### Off the hook
+- Usage 1
+Hell yeah! There is supposed to be a business trip to the south, but typhoon’s coming so I’m off the hook!!! Thanks lord!  
+嘿！耶！今天本来要去南部出差的，但台风来了，我解脱了，哈哈哈，感谢上帝。
+- Usage 2
+Man, I’m having a really hectic day in my office and my phone literally rings off the hook!  
+今天在办公室真是忙到爆，我的电话一直响个不停。
+- Usage 3
+I’m really sick of his harassing phone calls, and I’ve no idea how to respond to his stupid requests, so I just gotta leave the phone off the hook. Sorry~  
+我真的被他的骚扰电话搞得心烦意乱，而且我也不知道要怎么回应他的那些无聊的要求，所以我就估计把电话没挂好...对不起啦
+- Usage 4
+Yo, dude, Listen up! We’re getting into the championship because our song is off the hook and the judges like it!!!  
+嘿！兄弟们，听好了，因为我们的歌超屌，评委超喜欢所以我们进总决赛了！
+
+#### 知识点总结
+除了Off the hook的4种用法，这些句子中：  
+**hectic** 非常繁忙的
+
+**harassing** 骚扰某人
+
+**literally** 用于强调
