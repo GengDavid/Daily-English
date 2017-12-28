@@ -1085,3 +1085,20 @@ Yo, dude, Listen up! We’re getting into the championship because our song is o
 **harassing** 骚扰某人
 
 **literally** 用于强调
+
+## Day 55
+**share of**  部分  
+例： I have more than my full share of adventures.  
+我已经有了太多丰富多彩的历险。  
+After finishing his share of the work he went to help the opthers.  
+他完成了他自己的那部分工作以后，又去帮助别人。  
+
+**up to a point**
+一定程度上，有一点  
+例：It worked up to a point,.  
+它起到了一点作用.  
+He finds the comparison of insect wings with a sailing boat useful up to a point.
+他发现把昆虫的翅膀比作一艘帆船在某种程度上是有用的.  
+
+**come in handy**  派上用场  
+Don't throw it away, it might come in handy.  
