@@ -1102,3 +1102,18 @@ He finds the comparison of insect wings with a sailing boat useful up to a point
 
 **come in handy**  派上用场  
 Don't throw it away, it might come in handy.  
+
+## Day 56
+#### go to one's head
+**meaning**: (of success, praise, etc.) to make you feel too proud of yourself in a way that other people find annoying  
+例:  
+- Yeah, you did a good job on that project, but don't let it go to your head.  
+- He had a nice, warm smile and his success hadn't gone to his head.  
+另外，也有和中文中喝酒喝多了“上头”同样的用法
+#### AAA is a fact of live. 
+...是人生必须要面对的事实  
+Competition is a fact of life and we'd better enjoy it.
+#### hinge on
+取决于...  
+比depend on程度更深，可以理解为completely depend on  
+例: A lot hings on how we are viewed by overseas investors.
