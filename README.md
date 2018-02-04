@@ -1117,3 +1117,24 @@ Competition is a fact of life and we'd better enjoy it.
 取决于...  
 比depend on程度更深，可以理解为completely depend on  
 例: A lot hings on how we are viewed by overseas investors.
+
+## Day 57
+**I have come to realize that...**  
+我开始意识到  
+例: I have come to realize that the most important person in my life is you.
+**blossom**  
+blossom原意是开花的意思，用在人身上就可以表示为发展，成功  
+例: 
+	- Clumn should be a place where new writers can blossom.
+	- It requires your endeavor to blossom.
+**breed**  
+原意为繁殖，饲养（名词为品种）  
+还有一个常用的用法意为“滋生, 酝酿”  
+例: 
+	- Many people agree that familiarity breeds boredom.
+	- Telling truth may breed pain in both parties in a relationship.
+**a rush of**  
+a sudden feeling  
+例: 
+	- It must have been a sudden rush of blood to the head that  made Gary lash out a Ron, because he's usually so calm.
+	- With a rush of excitement, I climbed the ladder clumsily.
