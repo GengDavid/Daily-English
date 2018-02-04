@@ -1130,11 +1130,11 @@ blossom原意是开花的意思，用在人身上就可以表示为发展，成�
 **breed**  
 原意为繁殖，饲养（名词为品种）  
 还有一个常用的用法意为“滋生, 酝酿”  
-例: 
-	- Many people agree that familiarity breeds boredom.
-	- Telling truth may breed pain in both parties in a relationship.
+例:  
+- Many people agree that familiarity breeds boredom.
+- Telling truth may breed pain in both parties in a relationship.
 **a rush of**  
 a sudden feeling  
-例: 
-	- It must have been a sudden rush of blood to the head that  made Gary lash out a Ron, because he's usually so calm.
-	- With a rush of excitement, I climbed the ladder clumsily.
+例:  
+- It must have been a sudden rush of blood to the head that  made Gary lash out a Ron, because he's usually so calm.
+- With a rush of excitement, I climbed the ladder clumsily.
