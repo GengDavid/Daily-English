@@ -1144,3 +1144,29 @@ a sudden feeling
 例:  
 - It must have been a sudden rush of blood to the head that  made Gary lash out a Ron, because he's usually so calm.
 - With a rush of excitement, I climbed the ladder clumsily.
+
+## Day 58
+**kick into high gear**  
+达到高度紧张的程度, kick into gear有 开始 的意思  
+例: When the deadline started to approach, the project kicked into gear.  
+
+**trip up**  
+犯错，是某人犯错
+例: But the system can trip us up in a world with 24/7 opportunities to fulfill our desires.  
+在这个每时每刻有机会满足我们的欲望的世界上这个系统会让我们犯错。（在满足我们欲望的同时也会让我们犯错）  
+注：with 24/7 opportunities 一周7天 一天24小时不间断，表示时时刻刻 形象化的表达
+
+### 环境保护相关
+**contamination**  污染，污损  
+例: The researches had taken water samples from the streams to analyse the contamination caused by chemicals.  
+
+**carbon emission**，**the use of biofuel**, **alternative sources of energy**
+
+### decline 和 decrease
+**decline** 下降，衰退，**拒绝**  
+例: After the period of the baby boom, the birth rate began to decline.  
+近义词： descend(下降), decay(衰退)
+
+**decrease** 减少，减少量(n.)  
+例: In this phase, the mice population decrease drastically because of the deratizaion movement.  
+近义词： diminish, reduce
