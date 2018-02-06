@@ -1170,3 +1170,9 @@ a sudden feeling
 **decrease** 减少，减少量(n.)  
 例: In this phase, the mice population decrease drastically because of the deratizaion movement.  
 近义词： diminish, reduce
+
+## Day 59
+**be of ... sort**  
+表示属于某一类  
+例: While so many of the men who have fallen from their perches had great poser, Lauer's was of a particularly visible sort.  
+其中，perche表示很高的地位， 后半句表示Lauer的权利属于格外显眼的那一类
