@@ -1176,3 +1176,5 @@ a sudden feeling
 表示属于某一类  
 例: While so many of the men who have fallen from their perches had great poser, Lauer's was of a particularly visible sort.  
 其中，perche表示很高的地位， 后半句表示Lauer的权利属于格外显眼的那一类
+
+## Day 60
