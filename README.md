@@ -1180,3 +1180,12 @@ a sudden feeling
 ## Day 60
 
 ## Day 61
+**petition**  
+n. 请愿书，申请书，诉讼书  
+v. 请愿、请求  
+都是表示比较正式的申请和诉讼等  
+动词用法:  
+- **petition for/against sth**  
+	Local residents have successfully petitioned against the siting of a prison in their area.
+- **petision sb/sth for sth**  
+	Parents petitioned the school to review its admisiion policy.
