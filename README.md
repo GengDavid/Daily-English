@@ -1178,6 +1178,11 @@ a sudden feeling
 其中，perche表示很高的地位， 后半句表示Lauer的权利属于格外显眼的那一类
 
 ## Day 60
+**feel the need to**  
+感觉有必要...  
+例: 
+- Young people today do not feel need to help others when they themselves are living a life that is not very satisfying. 现在的身处在这个连自己都无法满足的时代的自身年轻人不会体会到帮助别人的必要性  
+- As a consumer, I feel the need to present myself consistently.
 
 ## Day 61
 **petition**  
@@ -1193,11 +1198,16 @@ v. 请愿、请求
 **go around**  
 1. 造访；拜访  
 	例: I asked them to **go around to** the house to see if they were there.
-	我让他们去那所房子那里看看他们是否在那里
+	我让他们去那所房子那里看看他们是否在那里  
 2. 习惯于做...  
-	例: If they **go around complaining** publichly, they may not find it so easy to get another job. 如果他们总是当众发牢骚，再找别的工作可就没那么容易了
+	例: If they **go around complaining** publichly, they may not find it so easy to get another job. 如果他们总是当众发牢骚，再找别的工作可就没那么容易了  
 3. 传播  
 	例: There is a **nasty sort of** rumour **going around** about it.
-	关于这件事正有一则恶意的谣言在流传
+	关于这件事正有一则恶意的谣言在流传  
+	nasty sort of, 不好的, This is a nasty sort of day.  
 4. 能够每人分到(If there is enough of something to go around, there is enough of it to be shared among a group of people, or to do all the things for which it is needed  
-	例: **Eventually** we will not have enough water to **go around**. 最终我们将没有足够的水供给大家喝
+	例: **Eventually** we will not have enough water to **go around**. 最终我们将没有足够的水供给大家喝  
+
+**seldom, if ever**  
+几乎不  
+例: He seldom, if ever, communicates with others.
