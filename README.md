@@ -1188,4 +1188,16 @@ v. 请愿、请求
 - **petition for/against sth**  
 	Local residents have successfully petitioned against the siting of a prison in their area.
 - **petision sb/sth for sth**  
-	Parents petitioned the school to review its admisiion policy.
+	Parents petitioned the school to review its admisiion policy.  
+
+**go around**  
+1. 造访；拜访  
+	例: I asked them to **go around to** the house to see if they were there.
+	我让他们去那所房子那里看看他们是否在那里
+2. 习惯于做...  
+	例: If they **go around complaining** publichly, they may not find it so easy to get another job. 如果他们总是当众发牢骚，再找别的工作可就没那么容易了
+3. 传播  
+	例: There is a **nasty sort of** rumour **going around** about it.
+	关于这件事正有一则恶意的谣言在流传
+4. 能够每人分到(If there is enough of something to go around, there is enough of it to be shared among a group of people, or to do all the things for which it is needed  
+	例: **Eventually** we will not have enough water to **go around**. 最终我们将没有足够的水供给大家喝
