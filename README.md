@@ -1211,3 +1211,9 @@ v. 请愿、请求
 **seldom, if ever**  
 几乎不  
 例: He seldom, if ever, communicates with others.
+
+## Day 62
+**come in for**  
+遭受(谴责等)  
+The director has come in for a lot of criticism over his handling of the affair.  
+
