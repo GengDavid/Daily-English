@@ -1219,4 +1219,6 @@ The director has come in for a lot of criticism over his handling of the affair.
 
 **be conducive to**  
 有益于  
-例: Easier payment terns would be conducive to our business with you. 
+例: Easier payment terns would be conducive to our business with you.  
+近义短语:  
+be supportive of, be helpful for, be useful for
