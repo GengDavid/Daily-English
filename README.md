@@ -1217,3 +1217,6 @@ v. 请愿、请求
 遭受(谴责等)  
 The director has come in for a lot of criticism over his handling of the affair.  
 
+**be conducive to**  
+有益于  
+例: Easier payment terns would be conducive to our business with you. 
