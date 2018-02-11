@@ -1221,4 +1221,5 @@ The director has come in for a lot of criticism over his handling of the affair.
 有益于  
 例: Easier payment terns would be conducive to our business with you.  
 近义短语:  
-be supportive of, be helpful for, be useful for
+be supportive of, be helpful for, be useful for  
+这些for也可以改用to，但后面如果接动词形式不同
