@@ -4,7 +4,7 @@ If you find something wrong, please point out by open an issue so that I can cor
 ## Day 0
 ### 例句：
 > 1. Even if one didn't konw from concrete examples (the 1936 Olympic Game, for instance) that international sporting contest leads to orgies of hatred, one could deduce it from general principle.
-> 2. Even if one didn’t know from concrete examples (the 2007 financial crisis, for instance) that the overproduction in the process of capitalist economic development leads to global financial crisis, one could still deduce it from general principle.
+> 2. Even if one didnt know from concrete examples (the 2007 financial crisis, for instance) that the overproduction in the process of capitalist economic development leads to global financial crisis, one could still deduce it from general principle.
 
 ### 句型：
 Even if one didn't konw from concrete examples (AAA, for instance) that BBB leads to CCC, one could deduce it from general principle.
@@ -31,14 +31,14 @@ Even if one didn't know from concrete examples (the death of Ian Murdock, the fu
 #### “倾向于”的替换短语：
 1. **Predispose**: make someone liable or inclined to a specified attitude, action, condition  
 例：Lack of exercise may predispose an individual to high blood pressure.  
-I’m kind of predisposed towards disliking them.  
+Im kind of predisposed towards disliking them.  
 用于开头：I am kind of predisposed towards disapproving of this statement for the following reasons. (※)  
 Air pollution may predispose local residents to respiratory diseases.
 
 2. **Be prone to**: likely or liable to suffer from, do, or experience sth. Unpleasant or regrettable  
 例：In past centuries, books and scrolls preserved the knowledge of our ancestors, even though they were prone to damage and disintegration.
 That might explain why several professors said the students seemed prone to cheating and plagiarism.
-3. **Be inclined to**: if you’re inclined to do something, you want to do it, you like doing it, and you may even have an inherit talent for doing it.  
+3. **Be inclined to**: if youre inclined to do something, you want to do it, you like doing it, and you may even have an inherit talent for doing it.  
 例：The IAB is urging them to make advertisements less irksome, so that consumers are less inclined to block them.  
 (另一种用法：have/show an/little inclination to)  
 例：Thai authorities have show an inclination in recent years to carry out deportations even in the face of strong opposition from rights groups and foreign powers.   
@@ -46,7 +46,7 @@ That might explain why several professors said the students seemed prone to chea
 (inclination for/to/towards) an interest in or liking for (something): my inborn inclination for things with moving parts.  
 关于感兴趣的另一种表达：  
 **Propensity**: an inclination or natural tendency to behave in particular way  
-例：He has a propensity for casual swearing and an accent that he worries Americans won’t understand.
+例：He has a propensity for casual swearing and an accent that he worries Americans wont understand.
 
 4. **Tend to**: have a tendency or disposition to do or be something; be inclined  
 例：Often brothers tend to become involved in terrorism because they share a close bond and **are subject to** similar environmental influences.
@@ -59,7 +59,7 @@ They deduced that the fish died because of the water pollution.
 
 #### Concrete 的用法  
 Concrete: specific, definite  
-例：I haven’t got any concrete proof.  
+例：I havent got any concrete proof.  
 不错的短语：  
 Be set in concrete: be fixed and unalterable  
 In the concrete: formal in reality or in practice
@@ -87,7 +87,7 @@ It has expanded **without any idea of** the true nature of the human beings who 
 蚕食；侵占：逐步或偷偷地侵占他人财产或侵犯他人权利  
 短语： Encroached on  
 同义词：infringe/intrude  
-好句：A **booming** human population and rapid economic development are **shrinking** the elephants’ habitat. In Anekal farmers **encroach on** the forest, disrupting a migratory route. This is happening across 90 such corridors, **leaving** the animal populations isolated.
+好句：A **booming** human population and rapid economic development are **shrinking** the elephants habitat. In Anekal farmers **encroach on** the forest, disrupting a migratory route. This is happening across 90 such corridors, **leaving** the animal populations isolated.
 
 **at the cost of**: 以...为代价
 
@@ -133,7 +133,7 @@ Studying and working in the library, although quiet and comfortable, is fundamen
 **in terms of** 根据; 用…的话; 就…而言; 以…为单位;  
 几种用法：  
 1. 在...方面， 关于...    
-  例： In terms of the system assessing teachers’ work, other crucial elements should also be included like parents’ feedback and comprehensive developments of students.  
+  例： In terms of the system assessing teachers work, other crucial elements should also be included like parents feedback and comprehensive developments of students.  
   在评估老师的工作质量方面，家长的反馈和学生的综合发展也是应该考虑的因素。  
   同义短语为：In the field of
 2. 根据，按照  
@@ -142,7 +142,7 @@ Studying and working in the library, although quiet and comfortable, is fundamen
 3. 用...的话；从...角度来说  
   例： In terms of certain radical parents, a priorly effective method to expose children to language skills goes to the enlightenment of foreign language as early as in the primary school.  
   在一些激进的家长看来，在小学时候接受启蒙式的外语教学能够更好的让孩子们掌握学习语言的技能  
-  同义短语：In one’s words; as sb. put it
+  同义短语：In ones words; as sb. put it
 
 **strike an appropriate balance between** 在...间达到平衡  
 例： Based on international experience, the author makes suggestion in order to strike an appropriate balance between risks and coverage in designing credit security system in China.  
@@ -404,7 +404,7 @@ Making money itself is a great good, all of it, but its consequences may be such
 ### 例句
 > 1. “Talent” is one of those irritating words that has been hijacked by management gurus. It used to mean innate ability, but in modern business it has become a synonym for brainpower (both natural and trained) and especially the ability to think creative.  
 “才能”是被管理大师们掌控的那些令人不安的字眼之一，过去它指的是人的天赋，而现代商业中它已经成为才智（天生的或者后天训练出的）的同义词，尤其指创造性思维的能力。
-> 2. Luxury good is one of those irritating words that has been hijacked by the wealthy elite. It used to mean the pursuit for high-quality life, but in modern world it has become a synonym for money worship (both spiritual and material) and especially the inability to cut one’s coat according to one’s cloth.  
+> 2. Luxury good is one of those irritating words that has been hijacked by the wealthy elite. It used to mean the pursuit for high-quality life, but in modern world it has become a synonym for money worship (both spiritual and material) and especially the inability to cut ones coat according to ones cloth.  
 奢侈品，是被财富精英掌控的那些令人不安的字眼之一，过去它指的是一种对高品质生活的追求，而现在它已经成为了拜金的同义词（包括精神上和物质上），尤其考虑到没有能力量入为出。
 
 ### 句型
@@ -441,7 +441,7 @@ Partnerships between Internet companies and physical stores are redefining daily
 
 ## Day 16
 ### 例句
-> As new technologies have transformed many aspects of daily life, new questions have arisen. The digital world is changing around us at a dizzying pace; parents want guidance, and pediatricians want to answer their questions with helpful and scientifically valid advice. The American Academy of Pediatrics’ policy on children and media is probably best known for two recommendations: to discourage any screen time for children under 2, and to limit screen time to two hours a day for older children.
+> As new technologies have transformed many aspects of daily life, new questions have arisen. The digital world is changing around us at a dizzying pace; parents want guidance, and pediatricians want to answer their questions with helpful and scientifically valid advice. The American Academy of Pediatrics policy on children and media is probably best known for two recommendations: to discourage any screen time for children under 2, and to limit screen time to two hours a day for older children.
 
 ### 句型
 As new technologies have transformed many aspects of daily life, new questions have arisen. AA is changing around us at a dizzying pace; BB want guidance, and CC want to answer their questions with helpful and scientifically valid advice. DD is probably best known for two recommendations: to do EE, and to do FF.  
@@ -487,7 +487,7 @@ When they saw the luxury car the first time, they felt so exiting, for the chanc
 
 ## Day 20
 ### 例句
-> Coining a phrase is one thing, living up to it is another. The Labour Party’s recent offensive on living costs was long on point-scoring and short on detailed solutions. The government boasts of its remedies(increasing the income-tax threshold and cutting beer tax, for example), but most are more than offset by the fall in real incomes.  
+> Coining a phrase is one thing, living up to it is another. The Labour Partys recent offensive on living costs was long on point-scoring and short on detailed solutions. The government boasts of its remedies(increasing the income-tax threshold and cutting beer tax, for example), but most are more than offset by the fall in real incomes.  
 喊口号是一回事，而能否实现却是另一回事。工党近来在公民生活费用文体上咄咄逼人，但是却很少提出详细的解决方法。政府在一味吹嘘他们诸如提高收入的个税起征点、削减啤酒税等补救策略，但多数却由于公民真实收入减少造成这些补偿款的入不敷出。
 
 ### 句型：
@@ -614,12 +614,12 @@ Mobile phone have come to pervade every aspect of our lives, and as a result, we
 
 ## Day 27
 ###  例句
-> With reference to the skill of speaking, eloquence(口才) is a most direct indication of one’s outstanding talent, thus paving the way toward career success. We could trace evidence to Oprah Winfrey, the world renowned talk show queen. Her unparalleled talking skills appeal to all ages and races. Her fearless courage and ability to emphasized key points indicate that she is able to connect with the hearts and souls of her guests and audience.  
+> With reference to the skill of speaking, eloquence(口才) is a most direct indication of ones outstanding talent, thus paving the way toward career success. We could trace evidence to Oprah Winfrey, the world renowned talk show queen. Her unparalleled talking skills appeal to all ages and races. Her fearless courage and ability to emphasized key points indicate that she is able to connect with the hearts and souls of her guests and audience.  
 在口语技能方面，口才是一个人杰出才华的最直接体现，因此可为其成功铺平道路。我们可以从名镇全球的脱口秀女王奥普拉温弗瑞身上获得印证。她那举世无双的口才使所有年龄和种族的人都为之叹服。她无所畏惧的勇气以及善与抓住要点的能力说明她能够与嘉宾和观众的心灵紧密相连。
 
 ### 句型
-With the reference to the skill of AAA, AAA’(AAA的同义词) is a most direct indication of one’s outstanding talent, thus paving the way toward career success. We could trace evidence to BBB(人名), the CCC(定从). His/Her unparalleled AAA skills appeal to DDD. His/Her fearless courage and ability to EEE indicated that he/ she is able to FFF.  
-在AAA方面，AAA’是一个人杰出才华的最直接的体现，因此可为其事业成功铺平道路。我们可以从BBB身上获得印证。他/她那举世无双的AAA吸引住了DDD，他/她无所畏惧的勇气以及EEE方面的能力说明他/她能FFF。
+With the reference to the skill of AAA, AAA(AAA的同义词) is a most direct indication of ones outstanding talent, thus paving the way toward career success. We could trace evidence to BBB(人名), the CCC(定从). His/Her unparalleled AAA skills appeal to DDD. His/Her fearless courage and ability to EEE indicated that he/ she is able to FFF.  
+在AAA方面，AAA是一个人杰出才华的最直接的体现，因此可为其事业成功铺平道路。我们可以从BBB身上获得印证。他/她那举世无双的AAA吸引住了DDD，他/她无所畏惧的勇气以及EEE方面的能力说明他/她能FFF。
 ### Practice
 With the reference to the skill of programming, the ability of sharing is a most direct indication of one's outstanding talent, thus paving the way toward career success. We could trace evidence to Linus Torvalds, the funder of Linux operation system. His unparalleled programming skills and his spirit of sharing appeal to millions of programmer to join his work. His fearless courage and ability to breaking the routine indicated that he is able to shake the world of programming.
 ### 知识点总结
@@ -634,11 +634,11 @@ vt. 使有声望
 
 ## Day 28
 ### 例句
-> But even if the government walks away from the battle, the growing number of state and local authorities seeking the FBI’s help with locked phones in criminal probes increases the likelihood that the FBI will have to provide it. When that happens, defense attorneys will cross-examine the experts involved.  
+> But even if the government walks away from the battle, the growing number of state and local authorities seeking the FBIs help with locked phones in criminal probes increases the likelihood that the FBI will have to provide it. When that happens, defense attorneys will cross-examine the experts involved.  
 但是即使政府回避这场争论，越来越多的州和地方政府会寻求FBI的帮助去解锁电话，这会提高FBI解锁成功的可能性。当这种情况发生时，辩护律师也会反复询问相关领域的专家。
 
 ### 句型
-But even if the AAA walks away from the BBB, the growing number of CCC and DDD seeking the EEE’s help with FFF increases the likelihood that the EEE will have to provide it.  
+But even if the AAA walks away from the BBB, the growing number of CCC and DDD seeking the EEEs help with FFF increases the likelihood that the EEE will have to provide it.  
 但是即使AAA回避BBB，越来越多的CCC和DDD会寻求EEE的帮助去解决问题（FFF），则会提高EEE解决问题的效率。
 ### Practice
 But even if some merchants walk away from the protection of intellectual property, the growing number of intelligent and skilled workers and authorized shops seeking the legal aid with the tort problem increases the likelihood that the supervision department will have to take effective measures against it.
@@ -666,11 +666,11 @@ But many people had deduced that traditional written messages were no longer fit
 
 ## Day 30
 ### 例句
-> From what has been discussed above, we may safely draw the conclusion that, although extra studies indeed enjoy many obvious advantages, its disadvantages shouldn’t be ignored and far outweigh its advantages. It is absurd to force children to take extra studies after school.  
+> From what has been discussed above, we may safely draw the conclusion that, although extra studies indeed enjoy many obvious advantages, its disadvantages shouldnt be ignored and far outweigh its advantages. It is absurd to force children to take extra studies after school.  
 通过以上讨论，我们可以得出结论：尽管额外学习的确有很多优点，但它的缺点不可忽视，且远大于它的优点。因此，放学后强迫孩子额外学习是不明智的。
 
 ### 句型
-From what has been discussed above, we may safely draw the conclusion that, although AAA indeed enjoy many obvious advantages, its disadvantages shouldn’t be ignored and far outweigh its advantages. It is absurd to force BBB to CCC.  
+From what has been discussed above, we may safely draw the conclusion that, although AAA indeed enjoy many obvious advantages, its disadvantages shouldnt be ignored and far outweigh its advantages. It is absurd to force BBB to CCC.  
 通过以上讨论，我们可以得出结论：尽管AAA的确有很多优点，但它的缺点不可忽视，且远大于它的优点。因此，让BBB做CCC是不明智的。
 ### Practice
 From what has been discussed above, we may safely draw the conclusion that, although headphone indeed enjoy many obvious advantages, its disadvantages shouldn't be ignored and far outweigh its advantages. It is absurd to use headphones in every condition.
@@ -741,7 +741,7 @@ If the unemployment rate still hovers at high levels, economic crisis will ensue
 
 ## Day 34
 ### 例句
-> Admission has nothing to do with being an athlete, or a child of an alumnus, or having an influential sponsor, or being a member of a particular aggrieved ethnic group-- criteria that are increasingly important at America’s elite colleges. Most of the students who apply to the honours programme come from relatively poor families.  
+> Admission has nothing to do with being an athlete, or a child of an alumnus, or having an influential sponsor, or being a member of a particular aggrieved ethnic group-- criteria that are increasingly important at Americas elite colleges. Most of the students who apply to the honours programme come from relatively poor families.  
 批准与否跟学生是否是一名运动员，或者是不是校友子弟，或者有没有颇具影响力的后台，或者是不是某个爱打抱不平的民族社团成员都毫无干系——而这些在美国的知名学府中已经日益成为重要标准。申请加入荣誉计划的学生大多来自相对贫困的家庭。
 
 ### 句型
@@ -756,11 +756,11 @@ Success has nothing to do with the number of award, or the popularity of a perso
 
 ## Day 35
 ### 例句
-> These climate-related disasters have geopolitical consequences and create instability. One of the most essential facts is that every night on the TV news now is like a nature hike through the Book of Revelation and the lossess have been mounting up. Although the causality requires a moment of discussion, more often than not,we’re used to thinking of linear cause and linear effect-- one cause, one effect. However, this is systemic causation.  
+> These climate-related disasters have geopolitical consequences and create instability. One of the most essential facts is that every night on the TV news now is like a nature hike through the Book of Revelation and the lossess have been mounting up. Although the causality requires a moment of discussion, more often than not,were used to thinking of linear cause and linear effect-- one cause, one effect. However, this is systemic causation.  
 气候引发的自然灾害会带来地缘政治的改变，制造不稳定因素。一个最基本的事实是，每晚的新闻就像揣着《启示录》在天地间行走一样，并且损失在与日俱增。虽然造成这些后果的原因是什么还存在争议，几乎没有例外，我们已经习惯了线性因果关系的思维方式，所谓的线性因果关系的思维方式就是一个原因造成一个后果。但造成这些后果的原因是系统性的。
 
 ### 句型
-These AAA have geopolitical consequences and create instability. One of the most essential facts is that BBB and CCC. Although the causality requires a moment of discussion, more often than not, we’re used to thinking of linear cause and linear effect-- one cause, one effect. However, this is systemic causation.  
+These AAA have geopolitical consequences and create instability. One of the most essential facts is that BBB and CCC. Although the causality requires a moment of discussion, more often than not, were used to thinking of linear cause and linear effect-- one cause, one effect. However, this is systemic causation.  
 AAA会带来地缘政治的改变，制造不稳定的因素。一个最基本的事实是，BBB，并且CCC。虽然造成这些都过的原因是什么还存在争议，几乎没有例外，我们已经习惯了现行因果关系的思维方式，所谓的线性因果关系的思维方式就是一个原因造成一个后果。但造成这些后果的原因是系统性的。
 
 ### Practice
@@ -799,7 +799,7 @@ The test of the character of a person lies not in how many beneficence he / she 
 
 ## Day 38
 ### 例句
-> It is terrifying to reflect on how the virus’s advance was halted in the teeming city of Lagos thanks only to the heroism of a single doctor and because the place just happened to have the expertise needed to trace all of the first victim’s contracts.  
+> It is terrifying to reflect on how the viruss advance was halted in the teeming city of Lagos thanks only to the heroism of a single doctor and because the place just happened to have the expertise needed to trace all of the first victims contracts.  
 细思恐极的是，当病毒在人声鼎沸的拉各斯肆虐时，多亏了一位医生的大无畏精神，疫情蔓延才得以终止，与此同时，拉各斯恰巧有技术能够追溯到所有与第一例病毒感染者接触的所有人。
 
 ### 句型
@@ -1066,16 +1066,16 @@ and the like
 ## Day 54
 ### Off the hook
 - Usage 1
-Hell yeah! There is supposed to be a business trip to the south, but typhoon’s coming so I’m off the hook!!! Thanks lord!  
+Hell yeah! There is supposed to be a business trip to the south, but typhoons coming so Im off the hook!!! Thanks lord!  
 嘿！耶！今天本来要去南部出差的，但台风来了，我解脱了，哈哈哈，感谢上帝。
 - Usage 2
-Man, I’m having a really hectic day in my office and my phone literally rings off the hook!  
+Man, Im having a really hectic day in my office and my phone literally rings off the hook!  
 今天在办公室真是忙到爆，我的电话一直响个不停。
 - Usage 3
-I’m really sick of his harassing phone calls, and I’ve no idea how to respond to his stupid requests, so I just gotta leave the phone off the hook. Sorry~  
+Im really sick of his harassing phone calls, and Ive no idea how to respond to his stupid requests, so I just gotta leave the phone off the hook. Sorry~  
 我真的被他的骚扰电话搞得心烦意乱，而且我也不知道要怎么回应他的那些无聊的要求，所以我就估计把电话没挂好...对不起啦
 - Usage 4
-Yo, dude, Listen up! We’re getting into the championship because our song is off the hook and the judges like it!!!  
+Yo, dude, Listen up! Were getting into the championship because our song is off the hook and the judges like it!!!  
 嘿！兄弟们，听好了，因为我们的歌超屌，评委超喜欢所以我们进总决赛了！
 
 #### 知识点总结
@@ -1223,3 +1223,45 @@ The director has come in for a lot of criticism over his handling of the affair.
 近义短语:  
 be supportive of, be helpful for, be useful for  
 这些for也可以改用to，但后面如果接动词形式不同
+
+## Day 63
+**take precedence**  
+precedence 优先，优先权  
+例:  
+- She had to learn that her wishes did not take precedence over other people's needs.
+- Have as much fun as possible at college, but don't let it take precedence over work.
+- As the King's representative he took precedence over everyone else on the island.
+
+**bother**  
+bother常见的意思就是打扰的意思就不多说了  
+还有一个常用的意思是 花费时间精力(做某事):  
+> Nothing I do makes any difference anyway, so why bother?  
+做什么都没有用了，我干嘛还浪费时间来做?  
+Most of the papers didn't even bother reporting it...  
+大多数报纸甚至懒得去报道这件事。  
+**bother with/about sth**  
+It's not worth bothering with (= using) an umbrella—the car's just outside.  
+不必打伞，汽车就停在外面。  
+I don't know why you bother with that crowd (= why you spend time with them).  
+我弄不懂你为什么和那伙人浪费时间。  
+**bother to do sth**  
+He didn't even bother to let me know he was coming.  
+他甚至连通知都没通知我他要来。  
+**bother doing sth**  
+Why bother asking if you're not really interested?  
+如果你不是真的感兴趣，干吗费口舌打听呢?  
+
+**be bothered (about sb/sth)**  
+表示关心某样东西  
+I'm not bothered about what he thinks.  
+我不在乎他怎么想。  
+‘Where shall we eat?’ ‘I'm not bothered.’ (= I don't mind where we go).  
+“我们去哪里吃饭？”“随便。”  
+
+**can't be bothered (to do sth)**  
+表示不想花时间精力做某事  
+(used to say that you do not want to spend time and/or energy doing sth)  
+I should really do some work this weekend but I can't be bothered.  
+我这个周末真该做点事了，可我懒得做。  
+All this has happened because you couldn't be bothered to give me the message.  
+就是因为你嫌麻烦没通知我，才出了这事。  
