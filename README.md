@@ -1253,7 +1253,7 @@ Why bother asking if you're not really interested?
 
 **be bothered (about sb/sth)**  
 表示关心某样东西  
-I'm not bothered about what he thinks.  
+> I'm not bothered about what he thinks.  
 我不在乎他怎么想。  
 ‘Where shall we eat?’ ‘I'm not bothered.’ (= I don't mind where we go).  
 “我们去哪里吃饭？”“随便。”  
@@ -1261,7 +1261,7 @@ I'm not bothered about what he thinks.
 **can't be bothered (to do sth)**  
 表示不想花时间精力做某事  
 (used to say that you do not want to spend time and/or energy doing sth)  
-I should really do some work this weekend but I can't be bothered.  
+> I should really do some work this weekend but I can't be bothered.  
 我这个周末真该做点事了，可我懒得做。  
 All this has happened because you couldn't be bothered to give me the message.  
 就是因为你嫌麻烦没通知我，才出了这事。  
