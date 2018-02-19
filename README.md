@@ -1265,3 +1265,28 @@ Why bother asking if you're not really interested?
 我这个周末真该做点事了，可我懒得做。  
 All this has happened because you couldn't be bothered to give me the message.  
 就是因为你嫌麻烦没通知我，才出了这事。  
+
+## Day 64
+#### Sentences 1
+> People who work in offices are frequently referred to as “white-collar” workers for the simple
+reason that they usually wear a collar and tie to go to work.  
+
+在介绍某样东西的时候可以用类似的句式，AAA is/are frequently referred to as BBB for the simple reason that it/them XXXX.  
+
+#### grapple
+to take a firm hold of sb/sth and struggle with them 扭打；搏斗
+**grapple(with sb/sth)**  
+例:  
+> Passers-by grappled with the man after the attack.
+袭击之后过路人便与这男人扭打起来。
+grapplesb/sth (+ adv./prep.)
+They managed to grapple him to the ground.
+他们终于把他摔倒在地。
+
+to try hard to find a solution to a problem 努力设法解决
+**grapplewith sth**
+> The new government has yet to grapple with the problem of air pollution.
+新政府还需尽力解决空气污染问题。
+grappleto do sth
+I was grappling to find an answer to his question.
+我正在努力想办法解决他的问题。
