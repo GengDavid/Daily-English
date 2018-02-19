@@ -1274,7 +1274,7 @@ reason that they usually wear a collar and tie to go to work.
 在介绍某样东西的时候可以用类似的句式，AAA is/are frequently referred to as BBB for the simple reason that it/them XXXX.  
 
 #### grapple
-to take a firm hold of sb/sth and struggle with them 扭打；搏斗
+to take a firm hold of sb/sth and struggle with them 扭打；搏斗  
 **grapple(with sb/sth)**  
 例:  
 > Passers-by grappled with the man after the attack.
@@ -1283,7 +1283,7 @@ grapplesb/sth (+ adv./prep.)
 They managed to grapple him to the ground.
 他们终于把他摔倒在地。
 
-to try hard to find a solution to a problem 努力设法解决
+to try hard to find a solution to a problem 努力设法解决  
 **grapplewith sth**
 > The new government has yet to grapple with the problem of air pollution.
 新政府还需尽力解决空气污染问题。
