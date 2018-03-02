@@ -1305,3 +1305,7 @@ reason that they usually wear a collar and tie to go to work.
 #### Sentences
 He assumed an air of concern  
 他装出一副关切的样子
+#### crumple up
+倒下  
+例：He crumpled up in agony. 
+他极其痛苦地瘫倒在地
