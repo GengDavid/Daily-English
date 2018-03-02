@@ -1302,3 +1302,6 @@ reason that they usually wear a collar and tie to go to work.
 牛被熏choke  
 被烟袋poke  
 是老君joke  
+#### Sentences
+He assumed an air of concern  
+他装出一副关切的样子
