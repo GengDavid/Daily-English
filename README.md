@@ -1292,3 +1292,13 @@ reason that they usually wear a collar and tie to go to work.
 	**grappleto do sth**  
 	> I was grappling to find an answer to his question. 
 	我正在努力想办法解决他的问题。
+
+## Day 65
+今天看到一个好玩的顺口溜  
+太上老君骑黄牛：  
+手牵牛yoke  
+把烟袋stroke  
+大口地smoke  
+牛被熏choke  
+被烟袋poke  
+是老君joke  
