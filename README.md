@@ -1309,3 +1309,23 @@ He assumed an air of concern
 倒下  
 例：He crumpled up in agony. 
 他极其痛苦地瘫倒在地
+
+## Day 66
+### Sentence 1
+Growing up, we learn that patience is a virtue, believing that good eventually comes to those who wait.  
+在成长的过程中，我们学习到耐心是一种美德，并且相信好事最终会发生在耐心等待的人身上
+
+#### 句型
+Growing up, we learn that AAA is BBB, XXXing that CCC  
+在成长的过程中，我们学到了AAA是BBB的，并且...
+
+#### Practice
+Growing up, we learn that decisiveness is a virtue, believing that opportunities come to those who are bold.  
+在成长的过程中，我们学到了做决定果断是一种美德，并且我们相信着机会总会降临到敢于冒险的人身上  
+
+Growing up, we learn that **academic achievements** should be regarded as top priority for students, ignoring the significance of **extracurricular** activities.  
+从小到大，我们都知道学业对于学生而言应该被放在首位，并且忽视了课外活动的重要性  
+
+#### Accumulation
+**academic achievements**  学业  
+**extracurricular**  这个词就是课外活动
