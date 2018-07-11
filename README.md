@@ -1329,3 +1329,7 @@ Growing up, we learn that **academic achievements** should be regarded as top pr
 #### Accumulation
 **academic achievements**  学业  
 **extracurricular**  这个词就是课外活动
+
+## Day 67
+### Sentence 1
+The internship offers only a pittance for a salary, but it is a good opportunity to gain experience.
